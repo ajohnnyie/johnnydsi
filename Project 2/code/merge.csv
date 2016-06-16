@@ -1,0 +1,966 @@
+,F1,Year,Artist Name,Track,Time,Genre,Date Entered,Date Peaked,Week,Ranking,Find Delta Date,counts
+0,576,2000,"Clark, Terri",A Little Gasoline,12/30/99 3:07,Country,12/16/00,12/16/00,x2nd.week,82,0,6.0
+1,299,2000,En Vogue,Riddle,12/30/99 5:10,Rock,6/17/00,6/17/00,x1st.week,92,0,4.0
+2,947,2000,"Smith, Will",Freakin' It,12/30/99 3:58,Rap,2/12/00,2/12/00,x3rd.week,99,0,4.0
+3,942,2000,"Braxton, Toni",Spanish Guitar,12/30/99 4:24,Rock,12/2/00,12/2/00,x3rd.week,98,0,3.0
+4,301,2000,Anastacia,I'm Outta Love,12/30/99 4:01,Pop,4/1/00,4/1/00,x1st.week,92,0,3.0
+5,940,2000,De La Soul,All Good?,12/30/99 5:02,Rap,12/23/00,12/23/00,x3rd.week,100,0,3.0
+6,282,2000,"Hollister, Dave",Can't Stay,12/30/99 6:17,Rock,3/25/00,3/25/00,x1st.week,84,0,4.0
+7,306,2000,De La Soul,All Good?,12/30/99 5:02,Rap,12/23/00,12/23/00,x1st.week,96,0,3.0
+8,271,2000,"Estefan, Gloria",No Me Dejes De Querer,12/30/99 3:25,Rock,6/10/00,6/10/00,x1st.week,77,0,1.0
+9,933,2000,En Vogue,Riddle,12/30/99 5:10,Rock,6/17/00,6/17/00,x3rd.week,97,0,4.0
+10,308,2000,"Braxton, Toni",Spanish Guitar,12/30/99 4:24,Rock,12/2/00,12/2/00,x1st.week,98,0,3.0
+11,309,2000,Tuesday,I Know,12/30/99 4:06,Rock,12/30/00,12/30/00,x1st.week,98,0,2.0
+12,311,2000,Master P,Souljas,12/30/99 3:33,Rap,11/18/00,11/18/00,x1st.week,98,0,1.0
+13,259,2000,"Clark, Terri",A Little Gasoline,12/30/99 3:07,Country,12/16/00,12/16/00,x1st.week,75,0,6.0
+14,312,2000,Ghostface Killah,Cherchez LaGhost,12/30/99 3:04,R&B,8/5/00,8/5/00,x1st.week,98,0,1.0
+15,313,2000,"Smith, Will",Freakin' It,12/30/99 3:58,Rap,2/12/00,2/12/00,x1st.week,99,0,4.0
+16,314,2000,Zombie Nation,Kernkraft 400,12/30/99 3:30,Rock,9/2/00,9/2/00,x1st.week,99,0,2.0
+17,315,2000,"Eastsidaz, The",Got Beef,12/30/99 3:58,Rap,7/1/00,7/1/00,x1st.week,99,0,2.0
+18,316,2000,Fragma,Toca's Miracle,12/30/99 3:22,R&B,10/28/00,10/28/00,x1st.week,99,0,1.0
+19,247,2000,"Wallflowers, The",Sleepwalker,12/30/99 3:29,Rock,10/28/00,10/28/00,x1st.week,73,0,6.0
+20,243,2000,Q-Tip,Breathe And Stop,12/30/99 4:06,Rock,1/22/00,1/22/00,x1st.week,71,0,5.0
+21,232,2000,Nine Days,If I Am,12/30/99 4:18,Rock,12/2/00,12/2/00,x1st.week,68,0,5.0
+22,431,2000,"Carey, Mariah",Crybaby,12/30/99 5:19,Rock,6/24/00,6/24/00,x2nd.week,34,0,7.0
+23,916,2000,"Hollister, Dave",Can't Stay,12/30/99 6:17,Rock,3/25/00,3/25/00,x3rd.week,93,0,4.0
+24,492,2000,Pearl Jam,Nothing As It Seems,12/30/99 5:20,Rock,5/13/00,5/13/00,x2nd.week,70,0,6.0
+25,175,2000,Pearl Jam,Nothing As It Seems,12/30/99 5:20,Rock,5/13/00,5/13/00,x1st.week,49,0,6.0
+26,549,2000,Nine Days,If I Am,12/30/99 4:18,Rock,12/2/00,12/2/00,x2nd.week,68,0,5.0
+27,560,2000,Q-Tip,Breathe And Stop,12/30/99 4:06,Rock,1/22/00,1/22/00,x2nd.week,71,0,5.0
+28,564,2000,"Wallflowers, The",Sleepwalker,12/30/99 3:29,Rock,10/28/00,10/28/00,x2nd.week,73,0,6.0
+29,599,2000,"Hollister, Dave",Can't Stay,12/30/99 6:17,Rock,3/25/00,3/25/00,x2nd.week,84,0,4.0
+30,616,2000,En Vogue,Riddle,12/30/99 5:10,Rock,6/17/00,6/17/00,x2nd.week,92,0,4.0
+31,114,2000,"Carey, Mariah",Crybaby,12/30/99 5:19,Rock,6/24/00,6/24/00,x1st.week,28,0,7.0
+32,623,2000,De La Soul,All Good?,12/30/99 5:02,Rap,12/23/00,12/23/00,x2nd.week,96,0,3.0
+33,625,2000,"Braxton, Toni",Spanish Guitar,12/30/99 4:24,Rock,12/2/00,12/2/00,x2nd.week,98,0,3.0
+34,626,2000,Tuesday,I Know,12/30/99 4:06,Rock,12/30/00,12/30/00,x2nd.week,98,0,2.0
+35,630,2000,"Smith, Will",Freakin' It,12/30/99 3:58,Rap,2/12/00,2/12/00,x2nd.week,99,0,4.0
+36,631,2000,Zombie Nation,Kernkraft 400,12/30/99 3:30,Rock,9/2/00,9/2/00,x2nd.week,99,0,2.0
+37,893,2000,"Clark, Terri",A Little Gasoline,12/30/99 3:07,Country,12/16/00,12/16/00,x3rd.week,88,0,6.0
+38,632,2000,"Eastsidaz, The",Got Beef,12/30/99 3:58,Rap,7/1/00,7/1/00,x2nd.week,99,0,2.0
+39,748,2000,"Carey, Mariah",Crybaby,12/30/99 5:19,Rock,6/24/00,6/24/00,x3rd.week,48,0,7.0
+40,809,2000,Pearl Jam,Nothing As It Seems,12/30/99 5:20,Rock,5/13/00,5/13/00,x3rd.week,84,0,6.0
+41,866,2000,Nine Days,If I Am,12/30/99 4:18,Rock,12/2/00,12/2/00,x3rd.week,81,0,5.0
+42,877,2000,Q-Tip,Breathe And Stop,12/30/99 4:06,Rock,1/22/00,1/22/00,x3rd.week,81,0,5.0
+43,881,2000,"Wallflowers, The",Sleepwalker,12/30/99 3:29,Rock,10/28/00,10/28/00,x3rd.week,74,0,6.0
+44,884,2000,Lox,"Ryde or Die, Chick",12/30/99 3:56,Rap,3/18/00,3/25/00,x3rd.week,80,7,7.0
+45,298,2000,"Price, Kelly",Love Sets You Free,12/30/99 3:46,Rock,5/13/00,5/20/00,x1st.week,92,7,4.0
+46,878,2000,"Rimes, LeAnn",Can't Fight The Moonlight,12/30/99 3:33,Country,9/9/00,9/16/00,x3rd.week,79,7,20.0
+47,294,2000,"Levert, Gerald",Baby U Are,12/30/99 4:10,R&B,8/19/00,8/26/00,x1st.week,96,7,5.0
+48,291,2000,"Spencer, Tracie",Still In My Heart,12/30/99 4:11,Rock,3/4/00,3/11/00,x1st.week,95,7,3.0
+49,941,2000,"Larrieux, Amel",Get Up,12/30/99 4:02,R&B,3/4/00,3/11/00,x3rd.week,97,7,3.0
+50,289,2000,Eve,Got It All,12/30/99 3:48,Rap,7/15/00,7/22/00,x1st.week,89,7,5.0
+51,302,2000,Trina,Pull Over,12/30/99 2:58,Rap,9/9/00,9/16/00,x1st.week,97,7,4.0
+52,287,2000,2Ge+her,The Hardest Part Of Breaking Up (Is Getting Back Your Stuff),12/30/99 3:15,R&B,9/2/00,9/9/00,x1st.week,91,7,3.0
+53,285,2000,"Paisley, Brad",Me Neither,12/30/99 3:19,Country,5/13/00,5/20/00,x1st.week,87,7,4.0
+54,284,2000,LFO,West Side Story,12/30/99 3:27,Rock,8/5/00,8/12/00,x1st.week,96,7,4.0
+55,939,2000,"Sheist, Shade",Where I Wanna Be,12/30/99 4:16,Rap,11/11/00,11/18/00,x3rd.week,99,7,25.0
+56,281,2000,Juvenile,U Understand,12/30/99 3:51,Rap,2/5/00,2/12/00,x1st.week,85,7,6.0
+57,865,2000,"Martin, Ricky",Private Emotion,12/30/99 4:02,Latin,3/11/00,3/18/00,x3rd.week,71,7,5.0
+58,305,2000,"Sheist, Shade",Where I Wanna Be,12/30/99 4:16,Rap,11/11/00,11/18/00,x1st.week,96,7,25.0
+59,936,2000,Trina,Pull Over,12/30/99 2:58,Rap,9/9/00,9/16/00,x3rd.week,96,7,4.0
+60,307,2000,"Larrieux, Amel",Get Up,12/30/99 4:02,R&B,3/4/00,3/11/00,x1st.week,100,7,3.0
+61,932,2000,"Price, Kelly",Love Sets You Free,12/30/99 3:46,Rock,5/13/00,5/20/00,x3rd.week,98,7,4.0
+62,310,2000,LL Cool J,Imagine That,12/30/99 4:00,Rap,8/12/00,8/19/00,x1st.week,99,7,2.0
+63,260,2000,"Brock, Chad",A Country Boy Can Survive,12/30/99 3:54,Country,1/1/00,1/8/00,x1st.week,93,7,3.0
+64,928,2000,"Levert, Gerald",Baby U Are,12/30/99 4:10,R&B,8/19/00,8/26/00,x3rd.week,92,7,5.0
+65,258,2000,Lil' Kim,How Many Licks?,12/30/99 3:50,Rap,11/25/00,12/2/00,x1st.week,79,7,9.0
+66,255,2000,"Bega, Lou",Tricky Tricky,12/30/99 3:23,Rock,1/29/00,2/5/00,x1st.week,75,7,
+67,925,2000,"Spencer, Tracie",Still In My Heart,12/30/99 4:11,Rock,3/4/00,3/11/00,x3rd.week,98,7,3.0
+68,923,2000,Eve,Got It All,12/30/99 3:48,Rap,7/15/00,7/22/00,x3rd.week,88,7,5.0
+69,921,2000,2Ge+her,The Hardest Part Of Breaking Up (Is Getting Back Your Stuff),12/30/99 3:15,R&B,9/2/00,9/9/00,x3rd.week,92,7,3.0
+70,244,2000,"Rimes, LeAnn",Can't Fight The Moonlight,12/30/99 3:33,Country,9/9/00,9/16/00,x1st.week,82,7,20.0
+71,847,2000,LFO,I Don't Wanna Kiss You Goodnight,12/30/99 5:00,Rock,4/15/00,4/22/00,x3rd.week,68,7,5.0
+72,919,2000,"Paisley, Brad",Me Neither,12/30/99 3:19,Country,5/13/00,5/20/00,x3rd.week,90,7,4.0
+73,918,2000,LFO,West Side Story,12/30/99 3:27,Rock,8/5/00,8/12/00,x3rd.week,88,7,4.0
+74,843,2000,Puff Daddy,Best Friend,12/30/99 5:33,Rap,2/12/00,2/19/00,x3rd.week,62,7,5.0
+75,231,2000,"Martin, Ricky",Private Emotion,12/30/99 4:02,Latin,3/11/00,3/18/00,x1st.week,76,7,5.0
+76,214,2000,SheDaisy,Deck The Halls,12/30/99 3:46,Country,12/25/99,1/1/00,x1st.week,97,7,2.0
+77,213,2000,LFO,I Don't Wanna Kiss You Goodnight,12/30/99 5:00,Rock,4/15/00,4/22/00,x1st.week,63,7,5.0
+78,209,2000,Puff Daddy,Best Friend,12/30/99 5:33,Rap,2/12/00,2/19/00,x1st.week,65,7,5.0
+79,915,2000,Juvenile,U Understand,12/30/99 3:51,Rap,2/5/00,2/12/00,x3rd.week,100,7,6.0
+80,526,2000,Puff Daddy,Best Friend,12/30/99 5:33,Rap,2/12/00,2/19/00,x2nd.week,59,7,5.0
+81,530,2000,LFO,I Don't Wanna Kiss You Goodnight,12/30/99 5:00,Rock,4/15/00,4/22/00,x2nd.week,61,7,5.0
+82,531,2000,SheDaisy,Deck The Halls,12/30/99 3:46,Country,12/25/99,1/1/00,x2nd.week,61,7,2.0
+83,548,2000,"Martin, Ricky",Private Emotion,12/30/99 4:02,Latin,3/11/00,3/18/00,x2nd.week,67,7,5.0
+84,561,2000,"Rimes, LeAnn",Can't Fight The Moonlight,12/30/99 3:33,Country,9/9/00,9/16/00,x2nd.week,71,7,20.0
+85,567,2000,Lox,"Ryde or Die, Chick",12/30/99 3:56,Rap,3/18/00,3/25/00,x2nd.week,73,7,7.0
+86,889,2000,"Bega, Lou",Tricky Tricky,12/30/99 3:23,Rock,1/29/00,2/5/00,x3rd.week,87,7,
+87,572,2000,"Bega, Lou",Tricky Tricky,12/30/99 3:23,Rock,1/29/00,2/5/00,x2nd.week,74,7,
+88,575,2000,Lil' Kim,How Many Licks?,12/30/99 3:50,Rap,11/25/00,12/2/00,x2nd.week,75,7,9.0
+89,250,2000,Lox,"Ryde or Die, Chick",12/30/99 3:56,Rap,3/18/00,3/25/00,x1st.week,86,7,7.0
+90,577,2000,"Brock, Chad",A Country Boy Can Survive,12/30/99 3:54,Country,1/1/00,1/8/00,x2nd.week,75,7,3.0
+91,598,2000,Juvenile,U Understand,12/30/99 3:51,Rap,2/5/00,2/12/00,x2nd.week,83,7,6.0
+92,601,2000,LFO,West Side Story,12/30/99 3:27,Rock,8/5/00,8/12/00,x2nd.week,84,7,4.0
+93,602,2000,"Paisley, Brad",Me Neither,12/30/99 3:19,Country,5/13/00,5/20/00,x2nd.week,85,7,4.0
+94,604,2000,2Ge+her,The Hardest Part Of Breaking Up (Is Getting Back Your Stuff),12/30/99 3:15,R&B,9/2/00,9/9/00,x2nd.week,87,7,3.0
+95,606,2000,Eve,Got It All,12/30/99 3:48,Rap,7/15/00,7/22/00,x2nd.week,88,7,5.0
+96,608,2000,"Spencer, Tracie",Still In My Heart,12/30/99 4:11,Rock,3/4/00,3/11/00,x2nd.week,88,7,3.0
+97,611,2000,"Levert, Gerald",Baby U Are,12/30/99 4:10,R&B,8/19/00,8/26/00,x2nd.week,89,7,5.0
+98,615,2000,"Price, Kelly",Love Sets You Free,12/30/99 3:46,Rock,5/13/00,5/20/00,x2nd.week,91,7,4.0
+99,619,2000,Trina,Pull Over,12/30/99 2:58,Rap,9/9/00,9/16/00,x2nd.week,93,7,4.0
+100,622,2000,"Sheist, Shade",Where I Wanna Be,12/30/99 4:16,Rap,11/11/00,11/18/00,x2nd.week,95,7,25.0
+101,624,2000,"Larrieux, Amel",Get Up,12/30/99 4:02,R&B,3/4/00,3/11/00,x2nd.week,97,7,3.0
+102,627,2000,LL Cool J,Imagine That,12/30/99 4:00,Rap,8/12/00,8/19/00,x2nd.week,98,7,2.0
+103,894,2000,"Brock, Chad",A Country Boy Can Survive,12/30/99 3:54,Country,1/1/00,1/8/00,x3rd.week,92,7,3.0
+104,892,2000,Lil' Kim,How Many Licks?,12/30/99 3:50,Rap,11/25/00,12/2/00,x3rd.week,77,7,9.0
+105,683,2000,Kenny G,Auld Lang Syne (The Millenium Mix),12/30/99 7:50,Jazz,12/25/99,1/8/00,x3rd.week,7,14,5.0
+106,491,2000,"John, Elton",Someday Out Of The Blue,12/30/99 4:41,Rock,4/22/00,5/6/00,x2nd.week,56,14,15.0
+107,"1,000",2000,Kenny G,Auld Lang Syne (The Millenium Mix),12/30/99 7:50,Jazz,12/25/99,1/8/00,x4th.week,8,14,5.0
+108,896,2000,"Byrd, Tracy",Put Your Hand In Mine,12/30/99 4:30,Country,1/29/00,2/12/00,x3rd.week,76,14,8.0
+109,292,2000,Nu Flavor,3 Little Words,12/30/99 3:54,R&B,6/3/00,6/17/00,x1st.week,97,14,9.0
+110,875,2000,"Kravitz, Lenny",I Belong To You,12/30/99 4:17,Rock,3/25/00,4/8/00,x3rd.week,71,14,9.0
+111,49,2000,Kenny G,Auld Lang Syne (The Millenium Mix),12/30/99 7:50,Jazz,12/25/99,1/8/00,x1st.week,89,14,5.0
+112,709,2000,Guy,Dancin',12/30/99 4:08,R&B,12/18/99,1/1/00,x3rd.week,19,14,11.0
+113,902,2000,"Allan, Gary",Smoke Rings In The Dark,12/30/99 4:18,Country,1/22/00,2/5/00,x3rd.week,76,14,5.0
+114,286,2000,"Carter, Torrey",Take That,12/30/99 3:43,Rock,6/24/00,7/8/00,x1st.week,94,14,7.0
+115,871,2000,"Offspring, The",Original Prankster,12/30/99 3:42,Rock,11/25/00,12/9/00,x3rd.week,70,14,9.0
+116,283,2000,Tamia,Can't Go For That,12/30/99 3:38,Rock,9/16/00,9/30/00,x1st.week,90,14,5.0
+117,117,2000,Madonna,American Pie,12/30/99 4:30,Rock,2/19/00,3/4/00,x1st.week,43,14,9.0
+118,860,2000,Jay-Z,Do It Again (Put Ya Hands Up),12/30/99 3:47,Rap,1/15/00,1/29/00,x3rd.week,65,14,9.0
+119,268,2000,"Allan, Gary",Smoke Rings In The Dark,12/30/99 4:18,Country,1/22/00,2/5/00,x1st.week,80,14,5.0
+120,714,2000,Hanson,This Time Around,12/30/99 4:14,Country,4/22/00,5/6/00,x3rd.week,20,14,7.0
+121,262,2000,"Byrd, Tracy",Put Your Hand In Mine,12/30/99 4:30,Country,1/29/00,2/12/00,x1st.week,81,14,8.0
+122,853,2000,Joe,Treat Her Like A Lady,12/30/99 4:12,Rock,8/5/00,8/19/00,x3rd.week,63,14,17.0
+123,256,2000,Big Punisher,It's So Hard,12/30/99 3:25,Rap,4/22/00,5/6/00,x1st.week,96,14,15.0
+124,852,2000,Kumbia Kings,U Don't Love Me,12/30/99 3:50,R&B,3/4/00,3/18/00,x3rd.week,62,14,10.0
+125,609,2000,Nu Flavor,3 Little Words,12/30/99 3:54,R&B,6/3/00,6/17/00,x2nd.week,97,14,9.0
+126,926,2000,Nu Flavor,3 Little Words,12/30/99 3:54,R&B,6/3/00,6/17/00,x3rd.week,89,14,9.0
+127,850,2000,"Simpson, Jessica",Where You Are,12/30/99 3:51,Rock,4/1/00,4/15/00,x3rd.week,62,14,6.0
+128,890,2000,Big Punisher,It's So Hard,12/30/99 3:25,Rap,4/22/00,5/6/00,x3rd.week,75,14,15.0
+129,603,2000,"Carter, Torrey",Take That,12/30/99 3:43,Rock,6/24/00,7/8/00,x2nd.week,88,14,7.0
+130,920,2000,"Carter, Torrey",Take That,12/30/99 3:43,Rock,6/24/00,7/8/00,x3rd.week,86,14,7.0
+131,751,2000,Madonna,American Pie,12/30/99 4:30,Rock,2/19/00,3/4/00,x3rd.week,29,14,9.0
+132,600,2000,Tamia,Can't Go For That,12/30/99 3:38,Rock,9/16/00,9/30/00,x2nd.week,86,14,5.0
+133,246,2000,2 Pac,Baby Don't Cry (Keep Ya Head Up II),12/30/99 4:22,Rap,2/26/00,3/11/00,x1st.week,87,14,7.0
+134,366,2000,Kenny G,Auld Lang Syne (The Millenium Mix),12/30/99 7:50,Jazz,12/25/99,1/8/00,x2nd.week,89,14,5.0
+135,849,2000,Splender,I Think God Can Explain,12/30/99 3:55,R&B,6/10/00,6/24/00,x3rd.week,62,14,12.0
+136,241,2000,"Kravitz, Lenny",I Belong To You,12/30/99 4:17,Rock,3/25/00,4/8/00,x1st.week,78,14,9.0
+137,237,2000,"Offspring, The",Original Prankster,12/30/99 3:42,Rock,11/25/00,12/9/00,x1st.week,74,14,9.0
+138,845,2000,Usher,Pop Ya Collar,12/30/99 3:36,Rock,11/4/00,11/18/00,x3rd.week,60,14,7.0
+139,75,2000,Guy,Dancin',12/30/99 4:08,R&B,12/18/99,1/1/00,x1st.week,46,14,11.0
+140,392,2000,Guy,Dancin',12/30/99 4:08,R&B,12/18/99,1/1/00,x2nd.week,29,14,11.0
+141,226,2000,Jay-Z,Do It Again (Put Ya Hands Up),12/30/99 3:47,Rap,1/15/00,1/29/00,x1st.week,95,14,9.0
+142,397,2000,Hanson,This Time Around,12/30/99 4:14,Country,4/22/00,5/6/00,x2nd.week,22,14,7.0
+143,585,2000,"Allan, Gary",Smoke Rings In The Dark,12/30/99 4:18,Country,1/22/00,2/5/00,x2nd.week,78,14,5.0
+144,219,2000,Joe,Treat Her Like A Lady,12/30/99 4:12,Rock,8/5/00,8/19/00,x1st.week,77,14,17.0
+145,218,2000,Kumbia Kings,U Don't Love Me,12/30/99 3:50,R&B,3/4/00,3/18/00,x1st.week,81,14,10.0
+146,216,2000,"Simpson, Jessica",Where You Are,12/30/99 3:51,Rock,4/1/00,4/15/00,x1st.week,73,14,6.0
+147,579,2000,"Byrd, Tracy",Put Your Hand In Mine,12/30/99 4:30,Country,1/29/00,2/12/00,x2nd.week,77,14,8.0
+148,215,2000,Splender,I Think God Can Explain,12/30/99 3:55,R&B,6/10/00,6/24/00,x1st.week,71,14,12.0
+149,211,2000,Usher,Pop Ya Collar,12/30/99 3:36,Rock,11/4/00,11/18/00,x1st.week,68,14,7.0
+150,801,2000,Vitamin C,The Itch,12/30/99 3:30,Rock,12/2/00,12/16/00,x3rd.week,45,14,9.0
+151,573,2000,Big Punisher,It's So Hard,12/30/99 3:25,Rap,4/22/00,5/6/00,x2nd.week,87,14,15.0
+152,808,2000,"John, Elton",Someday Out Of The Blue,12/30/99 4:41,Rock,4/22/00,5/6/00,x3rd.week,49,14,15.0
+153,917,2000,Tamia,Can't Go For That,12/30/99 3:38,Rock,9/16/00,9/30/00,x3rd.week,84,14,5.0
+154,434,2000,Madonna,American Pie,12/30/99 4:30,Rock,2/19/00,3/4/00,x2nd.week,35,14,9.0
+155,484,2000,Vitamin C,The Itch,12/30/99 3:30,Rock,12/2/00,12/16/00,x2nd.week,48,14,9.0
+156,543,2000,Jay-Z,Do It Again (Put Ya Hands Up),12/30/99 3:47,Rap,1/15/00,1/29/00,x2nd.week,68,14,9.0
+157,563,2000,2 Pac,Baby Don't Cry (Keep Ya Head Up II),12/30/99 4:22,Rap,2/26/00,3/11/00,x2nd.week,82,14,7.0
+158,509,2000,Jay-Z,Anything,12/30/99 3:41,Rap,2/26/00,3/11/00,x2nd.week,58,14,8.0
+159,192,2000,Jay-Z,Anything,12/30/99 3:41,Rap,2/26/00,3/11/00,x1st.week,72,14,8.0
+160,558,2000,"Kravitz, Lenny",I Belong To You,12/30/99 4:17,Rock,3/25/00,4/8/00,x2nd.week,77,14,9.0
+161,80,2000,Hanson,This Time Around,12/30/99 4:14,Country,4/22/00,5/6/00,x1st.week,22,14,7.0
+162,528,2000,Usher,Pop Ya Collar,12/30/99 3:36,Rock,11/4/00,11/18/00,x2nd.week,64,14,7.0
+163,826,2000,Jay-Z,Anything,12/30/99 3:41,Rap,2/26/00,3/11/00,x3rd.week,55,14,8.0
+164,554,2000,"Offspring, The",Original Prankster,12/30/99 3:42,Rock,11/25/00,12/9/00,x2nd.week,71,14,9.0
+165,532,2000,Splender,I Think God Can Explain,12/30/99 3:55,R&B,6/10/00,6/24/00,x2nd.week,66,14,12.0
+166,533,2000,"Simpson, Jessica",Where You Are,12/30/99 3:51,Rock,4/1/00,4/15/00,x2nd.week,66,14,6.0
+167,167,2000,Vitamin C,The Itch,12/30/99 3:30,Rock,12/2/00,12/16/00,x1st.week,86,14,9.0
+168,535,2000,Kumbia Kings,U Don't Love Me,12/30/99 3:50,R&B,3/4/00,3/18/00,x2nd.week,64,14,10.0
+169,536,2000,Joe,Treat Her Like A Lady,12/30/99 4:12,Rock,8/5/00,8/19/00,x2nd.week,75,14,17.0
+170,174,2000,"John, Elton",Someday Out Of The Blue,12/30/99 4:41,Rock,4/22/00,5/6/00,x1st.week,56,14,15.0
+171,880,2000,2 Pac,Baby Don't Cry (Keep Ya Head Up II),12/30/99 4:22,Rap,2/26/00,3/11/00,x3rd.week,72,14,7.0
+172,546,2000,"Price, Kelly",As We Lay,12/30/99 6:20,Rock,7/15/00,8/5/00,x2nd.week,69,21,8.0
+173,542,2000,Hot Boys,I Need A Hot Girl,12/30/99 4:16,Rap,2/19/00,3/11/00,x2nd.week,75,21,13.0
+174,297,2000,Funkmaster Flex,Do You,12/30/99 4:14,Rap,11/11/00,12/2/00,x1st.week,92,21,7.0
+175,296,2000,"Diffie, Joe",The Quittin' Kind,12/30/99 3:23,Country,1/1/00,1/22/00,x1st.week,98,21,6.0
+176,293,2000,Tamar,If You Don't Wanna Love Me,12/30/99 4:02,Rock,3/25/00,4/15/00,x1st.week,98,21,6.0
+177,703,2000,504 Boyz,Wobble Wobble,12/30/99 3:35,Rap,4/15/00,5/6/00,x3rd.week,25,21,18.0
+178,900,2000,"Levert, Gerald",Mr. Too Damn Good,12/30/99 4:06,R&B,3/18/00,4/8/00,x3rd.week,83,21,8.0
+179,874,2000,D'Angelo,Left & Right,12/30/99 4:35,R&B,12/11/99,1/1/00,x3rd.week,75,21,5.0
+180,872,2000,"Anthony, Marc",My Baby You,12/30/99 3:59,Latin,9/16/00,10/7/00,x3rd.week,76,21,20.0
+181,621,2000,A*Teens,Dancing Queen,12/30/99 3:44,Pop,7/8/00,7/29/00,x2nd.week,97,21,5.0
+182,182,2000,TLC,Dear Lie,12/30/99 4:36,Rock,2/12/00,3/4/00,x1st.week,63,21,7.0
+183,888,2000,Yankee Grey,Another Nine Minutes,12/30/99 3:10,Country,4/29/00,5/20/00,x3rd.week,77,21,8.0
+184,555,2000,"Anthony, Marc",My Baby You,12/30/99 3:59,Latin,9/16/00,10/7/00,x2nd.week,76,21,20.0
+185,304,2000,A*Teens,Dancing Queen,12/30/99 3:44,Pop,7/8/00,7/29/00,x1st.week,97,21,5.0
+186,276,2000,"Thomas, Carl",Summer Rain,12/30/99 4:57,Rock,9/23/00,10/14/00,x1st.week,82,21,11.0
+187,529,2000,Lil' Kim,No Matter What They Say,12/30/99 4:12,Rap,7/15/00,8/5/00,x2nd.week,72,21,10.0
+188,938,2000,A*Teens,Dancing Queen,12/30/99 3:44,Pop,7/8/00,7/29/00,x3rd.week,96,21,5.0
+189,557,2000,D'Angelo,Left & Right,12/30/99 4:35,R&B,12/11/99,1/1/00,x2nd.week,77,21,5.0
+190,525,2000,Sister Hazel,Change Your Mind,12/30/99 4:02,Rock,7/15/00,8/5/00,x2nd.week,67,21,20.0
+191,524,2000,Nas,You Owe Me,12/30/99 3:51,R&B,3/25/00,4/15/00,x2nd.week,72,21,16.0
+192,910,2000,"Thomas, Carl",Summer Rain,12/30/99 4:57,Rock,9/23/00,10/14/00,x3rd.week,86,21,11.0
+193,273,2000,Montgomery Gentry,Daddy Won't Sell The Farm,12/30/99 4:18,Country,3/4/00,3/25/00,x1st.week,87,21,6.0
+194,272,2000,Stone Temple Pilots,Sour Girl,12/30/99 4:16,Rock,7/8/00,7/29/00,x1st.week,79,21,13.0
+195,816,2000,TLC,Dear Lie,12/30/99 4:36,Rock,2/12/00,3/4/00,x3rd.week,52,21,7.0
+196,863,2000,"Price, Kelly",As We Lay,12/30/99 6:20,Rock,7/15/00,8/5/00,x3rd.week,69,21,8.0
+197,906,2000,Stone Temple Pilots,Sour Girl,12/30/99 4:16,Rock,7/8/00,7/29/00,x3rd.week,79,21,13.0
+198,266,2000,"Levert, Gerald",Mr. Too Damn Good,12/30/99 4:06,R&B,3/18/00,4/8/00,x1st.week,84,21,8.0
+199,499,2000,TLC,Dear Lie,12/30/99 4:36,Rock,2/12/00,3/4/00,x2nd.week,55,21,7.0
+200,859,2000,Hot Boys,I Need A Hot Girl,12/30/99 4:16,Rap,2/19/00,3/11/00,x3rd.week,71,21,13.0
+201,931,2000,Funkmaster Flex,Do You,12/30/99 4:14,Rap,11/11/00,12/2/00,x3rd.week,95,21,7.0
+202,614,2000,Funkmaster Flex,Do You,12/30/99 4:14,Rap,11/11/00,12/2/00,x2nd.week,92,21,7.0
+203,930,2000,"Diffie, Joe",The Quittin' Kind,12/30/99 3:23,Country,1/1/00,1/22/00,x3rd.week,100,21,6.0
+204,461,2000,No Doubt,Simple Kind Of Life,12/30/99 4:11,Rock,7/1/00,7/22/00,x2nd.week,40,21,13.0
+205,454,2000,"Carter, Aaron",Aaron's Party (Come Get It),12/30/99 3:23,R&B,8/26/00,9/16/00,x2nd.week,75,21,15.0
+206,613,2000,"Diffie, Joe",The Quittin' Kind,12/30/99 3:23,Country,1/1/00,1/22/00,x2nd.week,100,21,6.0
+207,207,2000,Nas,You Owe Me,12/30/99 3:51,R&B,3/25/00,4/15/00,x1st.week,74,21,16.0
+208,208,2000,Sister Hazel,Change Your Mind,12/30/99 4:02,Rock,7/15/00,8/5/00,x1st.week,75,21,20.0
+209,841,2000,Nas,You Owe Me,12/30/99 3:51,R&B,3/25/00,4/15/00,x3rd.week,68,21,16.0
+210,571,2000,Yankee Grey,Another Nine Minutes,12/30/99 3:10,Country,4/29/00,5/20/00,x2nd.week,83,21,8.0
+211,89,2000,Avant,Separated,12/30/99 4:13,Rock,4/29/00,5/20/00,x1st.week,62,21,20.0
+212,212,2000,Lil' Kim,No Matter What They Say,12/30/99 4:12,Rap,7/15/00,8/5/00,x1st.week,80,21,10.0
+213,842,2000,Sister Hazel,Change Your Mind,12/30/99 4:02,Rock,7/15/00,8/5/00,x3rd.week,66,21,20.0
+214,927,2000,Tamar,If You Don't Wanna Love Me,12/30/99 4:02,Rock,3/25/00,4/15/00,x3rd.week,92,21,6.0
+215,778,2000,No Doubt,Simple Kind Of Life,12/30/99 4:11,Rock,7/1/00,7/22/00,x3rd.week,39,21,13.0
+216,583,2000,"Levert, Gerald",Mr. Too Damn Good,12/30/99 4:06,R&B,3/18/00,4/8/00,x2nd.week,83,21,8.0
+217,723,2000,Avant,Separated,12/30/99 4:13,Rock,4/29/00,5/20/00,x3rd.week,30,21,20.0
+218,610,2000,Tamar,If You Don't Wanna Love Me,12/30/99 4:02,Rock,3/25/00,4/15/00,x2nd.week,98,21,6.0
+219,144,2000,No Doubt,Simple Kind Of Life,12/30/99 4:11,Rock,7/1/00,7/22/00,x1st.week,50,21,13.0
+220,254,2000,Yankee Grey,Another Nine Minutes,12/30/99 3:10,Country,4/29/00,5/20/00,x1st.week,86,21,8.0
+221,406,2000,Avant,Separated,12/30/99 4:13,Rock,4/29/00,5/20/00,x2nd.week,32,21,20.0
+222,69,2000,504 Boyz,Wobble Wobble,12/30/99 3:35,Rap,4/15/00,5/6/00,x1st.week,57,21,18.0
+223,907,2000,Montgomery Gentry,Daddy Won't Sell The Farm,12/30/99 4:18,Country,3/4/00,3/25/00,x3rd.week,81,21,6.0
+224,771,2000,"Carter, Aaron",Aaron's Party (Come Get It),12/30/99 3:23,R&B,8/26/00,9/16/00,x3rd.week,57,21,15.0
+225,225,2000,Hot Boys,I Need A Hot Girl,12/30/99 4:16,Rap,2/19/00,3/11/00,x1st.week,77,21,13.0
+226,589,2000,Stone Temple Pilots,Sour Girl,12/30/99 4:16,Rock,7/8/00,7/29/00,x2nd.week,79,21,13.0
+227,846,2000,Lil' Kim,No Matter What They Say,12/30/99 4:12,Rap,7/15/00,8/5/00,x3rd.week,67,21,10.0
+228,590,2000,Montgomery Gentry,Daddy Won't Sell The Farm,12/30/99 4:18,Country,3/4/00,3/25/00,x2nd.week,83,21,6.0
+229,229,2000,"Price, Kelly",As We Lay,12/30/99 6:20,Rock,7/15/00,8/5/00,x1st.week,82,21,8.0
+230,240,2000,D'Angelo,Left & Right,12/30/99 4:35,R&B,12/11/99,1/1/00,x1st.week,93,21,5.0
+231,238,2000,"Anthony, Marc",My Baby You,12/30/99 3:59,Latin,9/16/00,10/7/00,x1st.week,82,21,20.0
+232,593,2000,"Thomas, Carl",Summer Rain,12/30/99 4:57,Rock,9/23/00,10/14/00,x2nd.week,82,21,11.0
+233,137,2000,"Carter, Aaron",Aaron's Party (Come Get It),12/30/99 3:23,R&B,8/26/00,9/16/00,x1st.week,99,21,15.0
+234,386,2000,504 Boyz,Wobble Wobble,12/30/99 3:35,Rap,4/15/00,5/6/00,x2nd.week,34,21,18.0
+235,385,2000,Jagged Edge,He Can't Love U,12/30/99 3:30,Rock,12/11/99,1/8/00,x2nd.week,32,28,20.0
+236,236,2000,"Brooks, Garth",Do What You Gotta Do,12/30/99 2:56,Country,2/19/00,3/18/00,x1st.week,86,28,6.0
+237,233,2000,"Blige, Mary J.",Give Me You,12/30/99 5:00,Rock,4/15/00,5/13/00,x1st.week,97,28,9.0
+238,592,2000,Clark Family Experience,Meanwhile Back At The Ranch,12/30/99 2:56,Country,11/18/00,12/16/00,x2nd.week,86,28,12.0
+239,239,2000,"Houston, Whitney","Same Script, Different Cast",12/30/99 4:45,Rock,6/17/00,7/15/00,x1st.week,71,28,9.0
+240,230,2000,DMX,What's My Name,12/30/99 3:50,Rap,1/15/00,2/12/00,x1st.week,98,28,11.0
+241,594,2000,"Yearwood, Trisha",Real Live Woman,12/30/99 3:55,Country,4/1/00,4/29/00,x2nd.week,83,28,6.0
+242,380,2000,"Spears, Britney",From The Bottom Of My Broken Heart,12/30/99 4:30,Rock,1/29/00,2/26/00,x2nd.week,59,28,20.0
+243,393,2000,Lil Bow Wow,Bounce With Me,12/30/99 3:22,Rap,8/19/00,9/16/00,x2nd.week,35,28,20.0
+244,595,2000,Trick Daddy,Shut Up,12/30/99 4:17,Rap,5/20/00,6/17/00,x2nd.week,95,28,11.0
+245,224,2000,Limp Bizkit,Rollin',12/30/99 4:04,Rock,11/11/00,12/9/00,x1st.week,77,28,17.0
+246,587,2000,Before Dark,Monica,12/30/99 4:04,Rock,5/20/00,6/17/00,x2nd.week,87,28,9.0
+247,93,2000,"Spears, Britney",Lucky,12/30/99 3:23,Rock,8/12/00,9/9/00,x1st.week,61,28,11.0
+248,222,2000,Changing Faces,That Other Woman,12/30/99 4:00,Rock,9/30/00,10/28/00,x1st.week,80,28,11.0
+249,68,2000,Jagged Edge,He Can't Love U,12/30/99 3:30,Rock,12/11/99,1/8/00,x1st.week,54,28,20.0
+250,"1,014",2000,"Spears, Britney",From The Bottom Of My Broken Heart,12/30/99 4:30,Rock,1/29/00,2/26/00,x4th.week,52,28,20.0
+251,734,2000,D'Angelo,Untitled (How Does It Feel),12/30/99 7:10,R&B,1/22/00,2/19/00,x3rd.week,35,28,17.0
+252,727,2000,"Spears, Britney",Lucky,12/30/99 3:23,Rock,8/12/00,9/9/00,x3rd.week,28,28,11.0
+253,253,2000,Metallica,No Leaf Clover (Live),12/30/99 5:43,Rock,2/12/00,3/11/00,x1st.week,86,28,10.0
+254,410,2000,"Spears, Britney",Lucky,12/30/99 3:23,Rock,8/12/00,9/9/00,x2nd.week,41,28,11.0
+255,584,2000,"McKnight, Brian",Stay Or Let It Go,12/30/99 4:32,Rock,2/26/00,3/25/00,x2nd.week,92,28,8.0
+256,417,2000,D'Angelo,Untitled (How Does It Feel),12/30/99 7:10,R&B,1/22/00,2/19/00,x2nd.week,56,28,17.0
+257,76,2000,Lil Bow Wow,Bounce With Me,12/30/99 3:22,Rap,8/19/00,9/16/00,x1st.week,48,28,20.0
+258,570,2000,Metallica,No Leaf Clover (Live),12/30/99 5:43,Rock,2/12/00,3/11/00,x2nd.week,81,28,10.0
+259,856,2000,Changing Faces,That Other Woman,12/30/99 4:00,Rock,9/30/00,10/28/00,x3rd.week,66,28,11.0
+260,63,2000,"Spears, Britney",From The Bottom Of My Broken Heart,12/30/99 4:30,Rock,1/29/00,2/26/00,x1st.week,76,28,20.0
+261,812,2000,Eminem,Stan,12/30/99 5:26,Rap,11/4/00,12/2/00,x3rd.week,57,28,15.0
+262,909,2000,Clark Family Experience,Meanwhile Back At The Ranch,12/30/99 2:56,Country,11/18/00,12/16/00,x3rd.week,81,28,12.0
+263,858,2000,Limp Bizkit,Rollin',12/30/99 4:04,Rock,11/11/00,12/9/00,x3rd.week,72,28,17.0
+264,832,2000,SheDaisy,This Woman Needs,12/30/99 3:20,Country,2/5/00,3/4/00,x3rd.week,70,28,9.0
+265,495,2000,Eminem,Stan,12/30/99 5:26,Rap,11/4/00,12/2/00,x2nd.week,67,28,15.0
+266,198,2000,SheDaisy,This Woman Needs,12/30/99 3:20,Country,2/5/00,3/4/00,x1st.week,82,28,9.0
+267,267,2000,"McKnight, Brian",Stay Or Let It Go,12/30/99 4:32,Rock,2/26/00,3/25/00,x1st.week,95,28,8.0
+268,502,2000,Bloodhound Gang,The Bad Touch,12/30/99 4:20,R&B,3/18/00,4/15/00,x2nd.week,62,28,12.0
+269,710,2000,Lil Bow Wow,Bounce With Me,12/30/99 3:22,Rap,8/19/00,9/16/00,x3rd.week,24,28,20.0
+270,270,2000,Before Dark,Monica,12/30/99 4:04,Rock,5/20/00,6/17/00,x1st.week,95,28,9.0
+271,196,2000,"Stone, Angie",No More Rain (In This Cloud),12/30/99 4:42,R&B,12/25/99,1/22/00,x1st.week,86,28,17.0
+272,513,2000,"Stone, Angie",No More Rain (In This Cloud),12/30/99 4:42,R&B,12/25/99,1/22/00,x2nd.week,86,28,17.0
+273,515,2000,SheDaisy,This Woman Needs,12/30/99 3:20,Country,2/5/00,3/4/00,x2nd.week,70,28,9.0
+274,556,2000,"Houston, Whitney","Same Script, Different Cast",12/30/99 4:45,Rock,6/17/00,7/15/00,x2nd.week,71,28,9.0
+275,275,2000,Clark Family Experience,Meanwhile Back At The Ranch,12/30/99 2:56,Country,11/18/00,12/16/00,x1st.week,87,28,12.0
+276,830,2000,"Stone, Angie",No More Rain (In This Cloud),12/30/99 4:42,R&B,12/25/99,1/22/00,x3rd.week,74,28,17.0
+277,277,2000,"Yearwood, Trisha",Real Live Woman,12/30/99 3:55,Country,4/1/00,4/29/00,x1st.week,85,28,6.0
+278,278,2000,Trick Daddy,Shut Up,12/30/99 4:17,Rap,5/20/00,6/17/00,x1st.week,99,28,11.0
+279,864,2000,DMX,What's My Name,12/30/99 3:50,Rap,1/15/00,2/12/00,x3rd.week,69,28,11.0
+280,185,2000,Bloodhound Gang,The Bad Touch,12/30/99 4:20,R&B,3/18/00,4/15/00,x1st.week,70,28,12.0
+281,553,2000,"Brooks, Garth",Do What You Gotta Do,12/30/99 2:56,Country,2/19/00,3/18/00,x2nd.week,81,28,6.0
+282,867,2000,"Blige, Mary J.",Give Me You,12/30/99 5:00,Rock,4/15/00,5/13/00,x3rd.week,77,28,9.0
+283,550,2000,"Blige, Mary J.",Give Me You,12/30/99 5:00,Rock,4/15/00,5/13/00,x2nd.week,94,28,9.0
+284,870,2000,"Brooks, Garth",Do What You Gotta Do,12/30/99 2:56,Country,2/19/00,3/18/00,x3rd.week,72,28,6.0
+285,100,2000,D'Angelo,Untitled (How Does It Feel),12/30/99 7:10,R&B,1/22/00,2/19/00,x1st.week,77,28,17.0
+286,904,2000,Before Dark,Monica,12/30/99 4:04,Rock,5/20/00,6/17/00,x3rd.week,80,28,9.0
+287,911,2000,"Yearwood, Trisha",Real Live Woman,12/30/99 3:55,Country,4/1/00,4/29/00,x3rd.week,83,28,6.0
+288,873,2000,"Houston, Whitney","Same Script, Different Cast",12/30/99 4:45,Rock,6/17/00,7/15/00,x3rd.week,71,28,9.0
+289,819,2000,Bloodhound Gang,The Bad Touch,12/30/99 4:20,R&B,3/18/00,4/15/00,x3rd.week,55,28,12.0
+290,901,2000,"McKnight, Brian",Stay Or Let It Go,12/30/99 4:32,Rock,2/26/00,3/25/00,x3rd.week,82,28,8.0
+291,178,2000,Eminem,Stan,12/30/99 5:26,Rap,11/4/00,12/2/00,x1st.week,78,28,15.0
+292,539,2000,Changing Faces,That Other Woman,12/30/99 4:00,Rock,9/30/00,10/28/00,x2nd.week,72,28,11.0
+293,541,2000,Limp Bizkit,Rollin',12/30/99 4:04,Rock,11/11/00,12/9/00,x2nd.week,73,28,17.0
+294,887,2000,Metallica,No Leaf Clover (Live),12/30/99 5:43,Rock,2/12/00,3/11/00,x3rd.week,78,28,10.0
+295,702,2000,Jagged Edge,He Can't Love U,12/30/99 3:30,Rock,12/11/99,1/8/00,x3rd.week,17,28,20.0
+296,912,2000,Trick Daddy,Shut Up,12/30/99 4:17,Rap,5/20/00,6/17/00,x3rd.week,87,28,11.0
+297,547,2000,DMX,What's My Name,12/30/99 3:50,Rap,1/15/00,2/12/00,x2nd.week,76,28,11.0
+298,697,2000,"Spears, Britney",From The Bottom Of My Broken Heart,12/30/99 4:30,Rock,1/29/00,2/26/00,x3rd.week,52,28,20.0
+299,755,2000,"Backstreet Boys, The",The One,12/30/99 3:46,Rock,5/27/00,7/1/00,x3rd.week,43,35,15.0
+300,245,2000,Lil Wayne,Tha Block Is Hot,12/30/99 4:13,Rap,12/4/99,1/8/00,x1st.week,99,35,11.0
+301,745,2000,"Houston, Whitney",I Learned From The Best,12/30/99 4:18,Rock,2/19/00,3/25/00,x3rd.week,83,35,11.0
+302,717,2000,Lil' Zane,Callin' Me,12/30/99 3:43,Rap,7/29/00,9/2/00,x3rd.week,57,35,13.0
+303,303,2000,Lil' Mo,Ta Da,12/30/99 4:17,Rap,8/12/00,9/16/00,x1st.week,100,35,7.0
+304,280,2000,Cam'ron,What Means The World To You,12/30/99 4:38,Rap,10/14/00,11/18/00,x1st.week,94,35,10.0
+305,279,2000,"Moore, Chante",Straight Up,12/30/99 3:40,Rock,10/28/00,12/2/00,x1st.week,98,35,9.0
+306,750,2000,Sugar Ray,Falls Apart,12/30/99 4:15,Rock,1/15/00,2/19/00,x3rd.week,54,35,20.0
+307,433,2000,Sugar Ray,Falls Apart,12/30/99 4:15,Rock,1/15/00,2/19/00,x2nd.week,64,35,20.0
+308,879,2000,Lil Wayne,Tha Block Is Hot,12/30/99 4:13,Rap,12/4/99,1/8/00,x3rd.week,92,35,11.0
+309,761,2000,"Braxton, Toni",Just Be A Man About It,12/30/99 4:10,Rock,7/29/00,9/2/00,x3rd.week,51,35,20.0
+310,263,2000,Metallica,I Disappear,12/30/99 4:26,Rock,5/13/00,6/17/00,x1st.week,86,35,20.0
+311,428,2000,"Houston, Whitney",I Learned From The Best,12/30/99 4:18,Rock,2/19/00,3/25/00,x2nd.week,83,35,11.0
+312,206,2000,Eminem,The Way I Am,12/30/99 4:40,Rap,8/26/00,9/30/00,x1st.week,87,35,10.0
+313,438,2000,"Backstreet Boys, The",The One,12/30/99 3:46,Rock,5/27/00,7/1/00,x2nd.week,50,35,15.0
+314,45,2000,Pink,There U Go,12/30/99 3:23,Rock,3/4/00,4/8/00,x1st.week,25,35,32.0
+315,249,2000,Limp Bizkit,N 2 Gether Now,12/30/99 3:55,Rock,12/4/99,1/8/00,x1st.week,94,35,11.0
+316,248,2000,Drama,"Left, Right, Left",12/30/99 3:37,Rap,2/12/00,3/18/00,x1st.week,100,35,13.0
+317,769,2000,Aaliyah,I Don't Wanna,12/30/99 4:15,Rock,1/29/00,3/4/00,x3rd.week,51,35,20.0
+318,869,2000,Third Eye Blind,Deep Inside Of You,12/30/99 4:10,Rock,9/2/00,10/7/00,x3rd.week,70,35,12.0
+319,444,2000,"Braxton, Toni",Just Be A Man About It,12/30/99 4:10,Rock,7/29/00,9/2/00,x2nd.week,69,35,20.0
+320,320,2000,Madonna,Music,12/30/99 3:45,Rock,8/12/00,9/16/00,x2nd.week,23,35,24.0
+321,679,2000,Pink,There U Go,12/30/99 3:23,Rock,3/4/00,4/8/00,x3rd.week,12,35,32.0
+322,452,2000,Aaliyah,I Don't Wanna,12/30/99 4:15,Rock,1/29/00,3/4/00,x2nd.week,62,35,20.0
+323,882,2000,Drama,"Left, Right, Left",12/30/99 3:37,Rap,2/12/00,3/18/00,x3rd.week,89,35,13.0
+324,481,2000,Common,The Light,12/30/99 3:55,Rap,8/5/00,9/9/00,x2nd.week,55,35,19.0
+325,798,2000,Common,The Light,12/30/99 3:55,Rap,8/5/00,9/9/00,x3rd.week,53,35,19.0
+326,802,2000,"Eastsidaz, The",G'D Up,12/30/99 4:27,Rap,1/8/00,2/12/00,x3rd.week,89,35,14.0
+327,804,2000,"Thomas, Carl",Emotional,12/30/99 4:31,Rock,11/25/00,12/30/00,x3rd.week,61,35,20.0
+328,203,2000,"Diffie, Joe",It's Always Somethin',12/30/99 2:55,Country,8/12/00,9/16/00,x1st.week,81,35,14.0
+329,810,2000,Mya,The Best Of Me,12/30/99 4:12,Rock,4/15/00,5/20/00,x3rd.week,65,35,17.0
+330,996,2000,Pink,There U Go,12/30/99 3:23,Rock,3/4/00,4/8/00,x4th.week,11,35,32.0
+331,637,2000,Madonna,Music,12/30/99 3:45,Rock,8/12/00,9/16/00,x3rd.week,18,35,24.0
+332,111,2000,"Houston, Whitney",I Learned From The Best,12/30/99 4:18,Rock,2/19/00,3/25/00,x1st.week,83,35,11.0
+333,83,2000,Lil' Zane,Callin' Me,12/30/99 3:43,Rap,7/29/00,9/2/00,x1st.week,83,35,13.0
+334,116,2000,Sugar Ray,Falls Apart,12/30/99 4:15,Rock,1/15/00,2/19/00,x1st.week,70,35,20.0
+335,620,2000,Lil' Mo,Ta Da,12/30/99 4:17,Rap,8/12/00,9/16/00,x2nd.week,99,35,7.0
+336,485,2000,"Eastsidaz, The",G'D Up,12/30/99 4:27,Rap,1/8/00,2/12/00,x2nd.week,77,35,14.0
+337,121,2000,"Backstreet Boys, The",The One,12/30/99 3:46,Rock,5/27/00,7/1/00,x1st.week,58,35,15.0
+338,487,2000,"Thomas, Carl",Emotional,12/30/99 4:31,Rock,11/25/00,12/30/00,x2nd.week,63,35,20.0
+339,883,2000,Limp Bizkit,N 2 Gether Now,12/30/99 3:55,Rock,12/4/99,1/8/00,x3rd.week,85,35,11.0
+340,202,2000,R.E.M.,The Great Beyond,12/30/99 4:10,Rock,12/25/99,1/29/00,x1st.week,79,35,14.0
+341,493,2000,Mya,The Best Of Me,12/30/99 4:12,Rock,4/15/00,5/20/00,x2nd.week,70,35,17.0
+342,127,2000,"Braxton, Toni",Just Be A Man About It,12/30/99 4:10,Rock,7/29/00,9/2/00,x1st.week,76,35,20.0
+343,400,2000,Lil' Zane,Callin' Me,12/30/99 3:43,Rap,7/29/00,9/2/00,x2nd.week,89,35,13.0
+344,597,2000,Cam'ron,What Means The World To You,12/30/99 4:38,Rap,10/14/00,11/18/00,x2nd.week,94,35,10.0
+345,596,2000,"Moore, Chante",Straight Up,12/30/99 3:40,Rock,10/28/00,12/2/00,x2nd.week,98,35,9.0
+346,135,2000,Aaliyah,I Don't Wanna,12/30/99 4:15,Rock,1/29/00,3/4/00,x1st.week,84,35,20.0
+347,954,2000,Madonna,Music,12/30/99 3:45,Rock,8/12/00,9/16/00,x4th.week,14,35,24.0
+348,508,2000,Kelis,Caught Out There,12/30/99 4:09,R&B,12/4/99,1/8/00,x2nd.week,68,35,12.0
+349,519,2000,R.E.M.,The Great Beyond,12/30/99 4:10,Rock,12/25/99,1/29/00,x2nd.week,79,35,14.0
+350,825,2000,Kelis,Caught Out There,12/30/99 4:09,R&B,12/4/99,1/8/00,x3rd.week,67,35,12.0
+351,3,2000,Madonna,Music,12/30/99 3:45,Rock,8/12/00,9/16/00,x1st.week,41,35,24.0
+352,520,2000,"Diffie, Joe",It's Always Somethin',12/30/99 2:55,Country,8/12/00,9/16/00,x2nd.week,78,35,14.0
+353,897,2000,Metallica,I Disappear,12/30/99 4:26,Rock,5/13/00,6/17/00,x3rd.week,88,35,20.0
+354,580,2000,Metallica,I Disappear,12/30/99 4:26,Rock,5/13/00,6/17/00,x2nd.week,84,35,20.0
+355,523,2000,Eminem,The Way I Am,12/30/99 4:40,Rap,8/26/00,9/30/00,x2nd.week,74,35,10.0
+356,235,2000,Third Eye Blind,Deep Inside Of You,12/30/99 4:10,Rock,9/2/00,10/7/00,x1st.week,80,35,12.0
+357,937,2000,Lil' Mo,Ta Da,12/30/99 4:17,Rap,8/12/00,9/16/00,x3rd.week,97,35,7.0
+358,191,2000,Kelis,Caught Out There,12/30/99 4:09,R&B,12/4/99,1/8/00,x1st.week,84,35,12.0
+359,566,2000,Limp Bizkit,N 2 Gether Now,12/30/99 3:55,Rock,12/4/99,1/8/00,x2nd.week,88,35,11.0
+360,565,2000,Drama,"Left, Right, Left",12/30/99 3:37,Rap,2/12/00,3/18/00,x2nd.week,98,35,13.0
+361,562,2000,Lil Wayne,Tha Block Is Hot,12/30/99 4:13,Rap,12/4/99,1/8/00,x2nd.week,89,35,11.0
+362,362,2000,Pink,There U Go,12/30/99 3:23,Rock,3/4/00,4/8/00,x2nd.week,15,35,32.0
+363,840,2000,Eminem,The Way I Am,12/30/99 4:40,Rap,8/26/00,9/30/00,x3rd.week,59,35,10.0
+364,164,2000,Common,The Light,12/30/99 3:55,Rap,8/5/00,9/9/00,x1st.week,75,35,19.0
+365,552,2000,Third Eye Blind,Deep Inside Of You,12/30/99 4:10,Rock,9/2/00,10/7/00,x2nd.week,73,35,12.0
+366,913,2000,"Moore, Chante",Straight Up,12/30/99 3:40,Rock,10/28/00,12/2/00,x3rd.week,97,35,9.0
+367,168,2000,"Eastsidaz, The",G'D Up,12/30/99 4:27,Rap,1/8/00,2/12/00,x1st.week,77,35,14.0
+368,170,2000,"Thomas, Carl",Emotional,12/30/99 4:31,Rock,11/25/00,12/30/00,x1st.week,77,35,20.0
+369,914,2000,Cam'ron,What Means The World To You,12/30/99 4:38,Rap,10/14/00,11/18/00,x3rd.week,96,35,10.0
+370,176,2000,Mya,The Best Of Me,12/30/99 4:12,Rock,4/15/00,5/20/00,x1st.week,85,35,17.0
+371,836,2000,R.E.M.,The Great Beyond,12/30/99 4:10,Rock,12/25/99,1/29/00,x3rd.week,70,35,14.0
+372,837,2000,"Diffie, Joe",It's Always Somethin',12/30/99 2:55,Country,8/12/00,9/16/00,x3rd.week,67,35,14.0
+373,22,2000,98Á,Give Me Just One Night (Una Noche),12/30/99 3:24,Rock,8/19/00,9/30/00,x1st.week,51,42,20.0
+374,545,2000,"Dixie Chicks, The",Cold Day In July,12/30/99 5:12,Country,6/24/00,8/5/00,x2nd.week,79,42,10.0
+375,171,2000,Ginuwine,None Of Ur Friends Business,12/30/99 4:12,Rock,12/11/99,1/22/00,x1st.week,94,42,15.0
+376,540,2000,"Wright, Chely",It Was,12/30/99 3:51,R&B,3/4/00,4/15/00,x2nd.week,78,42,10.0
+377,839,2000,"Henley, Don",Taking You Home,12/30/99 4:08,Rock,6/24/00,8/5/00,x3rd.week,74,42,20.0
+378,736,2000,Avant,My First Love,12/30/99 4:28,Rock,11/4/00,12/16/00,x3rd.week,56,42,20.0
+379,161,2000,Black Rob,Whoa!,12/30/99 4:04,Rap,3/4/00,4/15/00,x1st.week,78,42,17.0
+380,187,2000,"Messina, Jo Dee",Because You Love Me,12/30/99 3:50,Country,1/29/00,3/11/00,x1st.week,83,42,13.0
+381,527,2000,"McBride, Martina",There You Are,12/30/99 3:26,Country,9/9/00,10/21/00,x2nd.week,75,42,13.0
+382,189,2000,Beenie Man,Girls Dem Sugar,12/30/99 4:17,Reggae,10/21/00,12/2/00,x1st.week,72,42,15.0
+383,383,2000,Profyle,Liar,12/30/99 3:57,R&B,9/16/00,10/28/00,x2nd.week,32,42,20.0
+384,568,2000,Ying Yang Twins,Whistle While You Twurk,12/30/99 4:19,Rap,3/18/00,4/29/00,x2nd.week,94,42,14.0
+385,81,2000,"Simpson, Jessica",I Think I'm In Love With You,12/30/99 3:32,Pop,7/1/00,8/12/00,x1st.week,63,42,16.0
+386,578,2000,"Cagle, Chris",My Love Goes On And On,12/30/99 3:02,Country,10/21/00,12/2/00,x2nd.week,94,42,11.0
+387,522,2000,"Henley, Don",Taking You Home,12/30/99 4:08,Rock,6/24/00,8/5/00,x2nd.week,77,42,20.0
+388,827,2000,3 Doors Down,Loser,12/30/99 4:24,Rock,10/21/00,12/2/00,x3rd.week,72,42,20.0
+389,352,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,12/30/99 3:51,Rap,11/27/99,1/8/00,x2nd.week,21,42,21.0
+390,35,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,12/30/99 3:51,Rap,11/27/99,1/8/00,x1st.week,36,42,21.0
+391,140,2000,"Wills, Mark",Back At One,12/30/99 4:00,Country,1/15/00,2/26/00,x1st.week,89,42,18.0
+392,228,2000,"Dixie Chicks, The",Cold Day In July,12/30/99 5:12,Country,6/24/00,8/5/00,x1st.week,80,42,10.0
+393,193,2000,3 Doors Down,Loser,12/30/99 4:24,Rock,10/21/00,12/2/00,x1st.week,76,42,20.0
+394,895,2000,"Cagle, Chris",My Love Goes On And On,12/30/99 3:02,Country,10/21/00,12/2/00,x3rd.week,94,42,11.0
+395,844,2000,"McBride, Martina",There You Are,12/30/99 3:26,Country,9/9/00,10/21/00,x3rd.week,75,42,13.0
+396,510,2000,3 Doors Down,Loser,12/30/99 4:24,Rock,10/21/00,12/2/00,x2nd.week,76,42,20.0
+397,223,2000,"Wright, Chely",It Was,12/30/99 3:51,R&B,3/4/00,4/15/00,x1st.week,86,42,10.0
+398,398,2000,"Simpson, Jessica",I Think I'm In Love With You,12/30/99 3:32,Pop,7/1/00,8/12/00,x2nd.week,52,42,16.0
+399,139,2000,Ice Cube,You Can Do It,12/30/99 4:20,Rap,12/4/99,1/15/00,x1st.week,86,42,12.0
+400,134,2000,Eve,Love Is Blind,12/30/99 3:51,Rap,1/8/00,2/19/00,x1st.week,94,42,16.0
+401,506,2000,Beenie Man,Girls Dem Sugar,12/30/99 4:17,Reggae,10/21/00,12/2/00,x2nd.week,72,42,15.0
+402,504,2000,"Messina, Jo Dee",Because You Love Me,12/30/99 3:50,Country,1/29/00,3/11/00,x2nd.week,78,42,13.0
+403,66,2000,Profyle,Liar,12/30/99 3:57,R&B,9/16/00,10/28/00,x1st.week,52,42,20.0
+404,885,2000,Ying Yang Twins,Whistle While You Twurk,12/30/99 4:19,Rap,3/18/00,4/29/00,x3rd.week,91,42,14.0
+405,823,2000,Beenie Man,Girls Dem Sugar,12/30/99 4:17,Reggae,10/21/00,12/2/00,x3rd.week,63,42,15.0
+406,973,2000,98Á,Give Me Just One Night (Una Noche),12/30/99 3:24,Rock,8/19/00,9/30/00,x4th.week,26,42,20.0
+407,488,2000,Ginuwine,None Of Ur Friends Business,12/30/99 4:12,Rock,12/11/99,1/22/00,x2nd.week,84,42,15.0
+408,339,2000,98Á,Give Me Just One Night (Una Noche),12/30/99 3:24,Rock,8/19/00,9/30/00,x2nd.week,39,42,20.0
+409,821,2000,"Messina, Jo Dee",Because You Love Me,12/30/99 3:50,Country,1/29/00,3/11/00,x3rd.week,71,42,13.0
+410,986,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,12/30/99 3:51,Rap,11/27/99,1/8/00,x4th.week,9,42,21.0
+411,805,2000,Ginuwine,None Of Ur Friends Business,12/30/99 4:12,Rock,12/11/99,1/22/00,x3rd.week,71,42,15.0
+412,656,2000,98Á,Give Me Just One Night (Una Noche),12/30/99 3:24,Rock,8/19/00,9/30/00,x3rd.week,34,42,20.0
+413,795,2000,Black Rob,Whoa!,12/30/99 4:04,Rap,3/4/00,4/15/00,x3rd.week,53,42,17.0
+414,478,2000,Black Rob,Whoa!,12/30/99 4:04,Rap,3/4/00,4/15/00,x2nd.week,59,42,17.0
+415,857,2000,"Wright, Chely",It Was,12/30/99 3:51,R&B,3/4/00,4/15/00,x3rd.week,75,42,10.0
+416,862,2000,"Dixie Chicks, The",Cold Day In July,12/30/99 5:12,Country,6/24/00,8/5/00,x3rd.week,76,42,10.0
+417,457,2000,"Wills, Mark",Back At One,12/30/99 4:00,Country,1/15/00,2/26/00,x2nd.week,55,42,18.0
+418,456,2000,Ice Cube,You Can Do It,12/30/99 4:20,Rap,12/4/99,1/15/00,x2nd.week,66,42,12.0
+419,419,2000,Avant,My First Love,12/30/99 4:28,Rock,11/4/00,12/16/00,x2nd.week,62,42,20.0
+420,205,2000,"Henley, Don",Taking You Home,12/30/99 4:08,Rock,6/24/00,8/5/00,x1st.week,79,42,20.0
+421,669,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,12/30/99 3:51,Rap,11/27/99,1/8/00,x3rd.week,13,42,21.0
+422,451,2000,Eve,Love Is Blind,12/30/99 3:51,Rap,1/8/00,2/19/00,x2nd.week,91,42,16.0
+423,774,2000,"Wills, Mark",Back At One,12/30/99 4:00,Country,1/15/00,2/26/00,x3rd.week,51,42,18.0
+424,773,2000,Ice Cube,You Can Do It,12/30/99 4:20,Rap,12/4/99,1/15/00,x3rd.week,50,42,12.0
+425,251,2000,Ying Yang Twins,Whistle While You Twurk,12/30/99 4:19,Rap,3/18/00,4/29/00,x1st.week,95,42,14.0
+426,768,2000,Eve,Love Is Blind,12/30/99 3:51,Rap,1/8/00,2/19/00,x3rd.week,57,42,16.0
+427,700,2000,Profyle,Liar,12/30/99 3:57,R&B,9/16/00,10/28/00,x3rd.week,25,42,20.0
+428,261,2000,"Cagle, Chris",My Love Goes On And On,12/30/99 3:02,Country,10/21/00,12/2/00,x1st.week,99,42,11.0
+429,102,2000,Avant,My First Love,12/30/99 4:28,Rock,11/4/00,12/16/00,x1st.week,70,42,20.0
+430,715,2000,"Simpson, Jessica",I Think I'm In Love With You,12/30/99 3:32,Pop,7/1/00,8/12/00,x3rd.week,44,42,16.0
+431,210,2000,"McBride, Martina",There You Are,12/30/99 3:26,Country,9/9/00,10/21/00,x1st.week,79,42,13.0
+432,518,2000,Shyne,Bad Boyz,12/30/99 4:22,Rap,9/9/00,10/28/00,x2nd.week,87,49,15.0
+433,430,2000,Mary Mary,Shackles (Praise You),12/30/99 3:12,Rock,3/25/00,5/13/00,x2nd.week,76,49,20.0
+434,427,2000,Hoku,Another Dumb Blonde,12/30/99 3:47,Pop,2/19/00,4/8/00,x2nd.week,49,49,14.0
+435,300,2000,"Herndon, Ty",No Mercy,12/30/99 4:43,Country,3/18/00,5/6/00,x1st.week,100,49,8.0
+436,728,2000,Savage Garden,Crash And Burn,12/30/99 4:41,Rock,4/8/00,5/27/00,x3rd.week,51,49,20.0
+437,744,2000,Hoku,Another Dumb Blonde,12/30/99 3:47,Pop,2/19/00,4/8/00,x3rd.week,49,49,14.0
+438,747,2000,Mary Mary,Shackles (Praise You),12/30/99 3:12,Rock,3/25/00,5/13/00,x3rd.week,72,49,20.0
+439,94,2000,Savage Garden,Crash And Burn,12/30/99 4:41,Rock,4/8/00,5/27/00,x1st.week,75,49,20.0
+440,51,2000,"Spears, Britney",Oops!.. I Did It Again,12/30/99 3:30,Rock,4/22/00,6/10/00,x1st.week,67,49,20.0
+441,52,2000,"Backstreet Boys, The",Shape Of My Heart,12/30/99 3:49,Rock,10/14/00,12/2/00,x1st.week,39,49,20.0
+442,718,2000,M2M,Don't Say You Love Me,12/30/99 3:41,Pop,11/20/99,1/8/00,x3rd.week,62,49,12.0
+443,274,2000,"Cyrus, Billy Ray",You Won't Be Lonely Now,12/30/99 3:45,Country,9/23/00,11/11/00,x1st.week,97,49,13.0
+444,713,2000,"Thomas, Carl",I Wish,12/30/99 3:50,Rock,3/25/00,5/13/00,x3rd.week,48,49,20.0
+445,445,2000,"Iglesias, Enrique",Rhythm Divine,12/30/99 7:35,Latin,12/4/99,1/22/00,x2nd.week,84,49,17.0
+446,708,2000,"Dixie Chicks, The",Goodbye Earl,12/30/99 4:19,Country,3/18/00,5/6/00,x3rd.week,24,49,15.0
+447,447,2000,Bon Jovi,It's My Life,12/30/99 3:44,Rock,8/12/00,9/30/00,x2nd.week,58,49,20.0
+448,762,2000,"Iglesias, Enrique",Rhythm Divine,12/30/99 7:35,Latin,12/4/99,1/22/00,x3rd.week,79,49,17.0
+449,764,2000,Bon Jovi,It's My Life,12/30/99 3:44,Rock,8/12/00,9/30/00,x3rd.week,51,49,20.0
+450,252,2000,"Walker, Clay","Live, Laugh, Love",12/30/99 4:06,Country,12/4/99,1/22/00,x1st.week,95,49,11.0
+451,686,2000,"Backstreet Boys, The",Shape Of My Heart,12/30/99 3:49,Rock,10/14/00,12/2/00,x3rd.week,24,49,20.0
+452,685,2000,"Spears, Britney",Oops!.. I Did It Again,12/30/99 3:30,Rock,4/22/00,6/10/00,x3rd.week,26,49,20.0
+453,453,2000,"Montgomery, John Michael",The Little Girl,12/30/99 3:52,Country,9/9/00,10/28/00,x2nd.week,67,49,20.0
+454,44,2000,"Badu, Erkyah",Bag Lady,12/30/99 5:03,Rock,8/19/00,10/7/00,x1st.week,67,49,20.0
+455,770,2000,"Montgomery, John Michael",The Little Girl,12/30/99 3:52,Country,9/9/00,10/28/00,x3rd.week,64,49,20.0
+456,678,2000,"Badu, Erkyah",Bag Lady,12/30/99 5:03,Rock,8/19/00,10/7/00,x3rd.week,42,49,20.0
+457,677,2000,Eiffel 65,Blue (Da Ba Dee),12/30/99 3:29,Electronica,12/11/99,1/29/00,x3rd.week,16,49,20.0
+458,779,2000,"Jean, Wyclef",911,12/30/99 4:00,Rap,10/7/00,11/25/00,x3rd.week,64,49,19.0
+459,665,2000,Eminem,The Real Slim Shady,12/30/99 4:42,Rap,5/6/00,6/24/00,x3rd.week,20,49,19.0
+460,325,2000,Sisqo,Incomplete,12/30/99 3:52,Rock,6/24/00,8/12/00,x2nd.week,66,49,26.0
+461,204,2000,"McGraw, Tim",Some Things Never Change,12/30/99 3:56,Country,5/13/00,7/1/00,x1st.week,76,49,14.0
+462,462,2000,"Jean, Wyclef",911,12/30/99 4:00,Rap,10/7/00,11/25/00,x2nd.week,74,49,19.0
+463,654,2000,"Braxton, Toni",He Wasn't Man Enough,12/30/99 4:21,Rock,3/18/00,5/6/00,x3rd.week,48,49,37.0
+464,799,2000,"Vassar, Phil",Carlene,12/30/99 4:07,Country,3/4/00,4/22/00,x3rd.week,64,49,19.0
+465,800,2000,"Jackson, Alan",www.memory,12/30/99 2:36,Country,11/4/00,12/23/00,x3rd.week,59,49,15.0
+466,"1,003",2000,"Backstreet Boys, The",Shape Of My Heart,12/30/99 3:49,Rock,10/14/00,12/2/00,x4th.week,15,49,20.0
+467,"1,002",2000,"Spears, Britney",Oops!.. I Did It Again,12/30/99 3:30,Rock,4/22/00,6/10/00,x4th.week,19,49,20.0
+468,328,2000,"Aguilera, Christina",What A Girl Wants,12/30/99 3:18,Rock,11/27/99,1/15/00,x2nd.week,51,49,24.0
+469,645,2000,"Aguilera, Christina",What A Girl Wants,12/30/99 3:18,Rock,11/27/99,1/15/00,x3rd.week,28,49,24.0
+470,642,2000,Sisqo,Incomplete,12/30/99 3:52,Rock,6/24/00,8/12/00,x3rd.week,61,49,26.0
+471,861,2000,"Adkins, Trace",More,12/30/99 3:05,Country,4/29/00,6/17/00,x3rd.week,75,49,11.0
+472,814,2000,"Lopez, Jennifer",Feelin' Good,12/30/99 4:28,Latin,2/19/00,4/8/00,x3rd.week,66,49,17.0
+473,995,2000,"Badu, Erkyah",Bag Lady,12/30/99 5:03,Rock,8/19/00,10/7/00,x4th.week,41,49,20.0
+474,84,2000,M2M,Don't Say You Love Me,12/30/99 3:41,Pop,11/20/99,1/8/00,x1st.week,72,49,12.0
+475,818,2000,"Houston, Whitney",Could I Have This Kiss Forever,12/30/99 3:54,Rock,6/17/00,8/5/00,x3rd.week,68,49,19.0
+476,110,2000,Hoku,Another Dumb Blonde,12/30/99 3:47,Pop,2/19/00,4/8/00,x1st.week,69,49,14.0
+477,994,2000,Eiffel 65,Blue (Da Ba Dee),12/30/99 3:29,Electronica,12/11/99,1/29/00,x4th.week,16,49,20.0
+478,113,2000,Mary Mary,Shackles (Praise You),12/30/99 3:12,Rock,3/25/00,5/13/00,x1st.week,90,49,20.0
+479,617,2000,"Herndon, Ty",No Mercy,12/30/99 4:43,Country,3/18/00,5/6/00,x2nd.week,99,49,8.0
+480,337,2000,"Braxton, Toni",He Wasn't Man Enough,12/30/99 4:21,Rock,3/18/00,5/6/00,x2nd.week,55,49,37.0
+481,612,2000,"Hart, Beth",L.A. Song,12/30/99 3:47,Country,11/27/99,1/15/00,x2nd.week,100,49,12.0
+482,482,2000,"Vassar, Phil",Carlene,12/30/99 4:07,Country,3/4/00,4/22/00,x2nd.week,67,49,19.0
+483,483,2000,"Jackson, Alan",www.memory,12/30/99 2:36,Country,11/4/00,12/23/00,x2nd.week,59,49,15.0
+484,411,2000,Savage Garden,Crash And Burn,12/30/99 4:41,Rock,4/8/00,5/27/00,x2nd.week,58,49,20.0
+485,982,2000,Eminem,The Real Slim Shady,12/30/99 4:42,Rap,5/6/00,6/24/00,x4th.week,16,49,19.0
+486,971,2000,"Braxton, Toni",He Wasn't Man Enough,12/30/99 4:21,Rock,3/18/00,5/6/00,x4th.week,39,49,37.0
+487,128,2000,"Iglesias, Enrique",Rhythm Divine,12/30/99 7:35,Latin,12/4/99,1/22/00,x1st.week,90,49,17.0
+488,43,2000,Eiffel 65,Blue (Da Ba Dee),12/30/99 3:29,Electronica,12/11/99,1/29/00,x1st.week,67,49,20.0
+489,130,2000,Bon Jovi,It's My Life,12/30/99 3:44,Rock,8/12/00,9/30/00,x1st.week,64,49,20.0
+490,962,2000,"Aguilera, Christina",What A Girl Wants,12/30/99 3:18,Rock,11/27/99,1/15/00,x4th.week,18,49,24.0
+491,959,2000,Sisqo,Incomplete,12/30/99 3:52,Rock,6/24/00,8/12/00,x4th.week,61,49,26.0
+492,201,2000,Shyne,Bad Boyz,12/30/99 4:22,Rap,9/9/00,10/28/00,x1st.week,94,49,15.0
+493,136,2000,"Montgomery, John Michael",The Little Girl,12/30/99 3:52,Country,9/9/00,10/28/00,x1st.week,81,49,20.0
+494,348,2000,Eminem,The Real Slim Shady,12/30/99 4:42,Rap,5/6/00,6/24/00,x2nd.week,32,49,19.0
+495,591,2000,"Cyrus, Billy Ray",You Won't Be Lonely Now,12/30/99 3:45,Country,9/23/00,11/11/00,x2nd.week,97,49,13.0
+496,886,2000,"Walker, Clay","Live, Laugh, Love",12/30/99 4:06,Country,12/4/99,1/22/00,x3rd.week,94,49,11.0
+497,497,2000,"Lopez, Jennifer",Feelin' Good,12/30/99 4:28,Latin,2/19/00,4/8/00,x2nd.week,79,49,17.0
+498,145,2000,"Jean, Wyclef",911,12/30/99 4:00,Rap,10/7/00,11/25/00,x1st.week,77,49,19.0
+499,831,2000,Da Brat,That's What I'm Looking For,12/30/99 3:44,Rap,2/26/00,4/15/00,x3rd.week,60,49,18.0
+500,295,2000,"Hart, Beth",L.A. Song,12/30/99 3:47,Country,11/27/99,1/15/00,x1st.week,99,49,12.0
+501,501,2000,"Houston, Whitney",Could I Have This Kiss Forever,12/30/99 3:54,Rock,6/17/00,8/5/00,x2nd.week,68,49,19.0
+502,197,2000,Da Brat,That's What I'm Looking For,12/30/99 3:44,Rap,2/26/00,4/15/00,x1st.week,93,49,18.0
+503,569,2000,"Walker, Clay","Live, Laugh, Love",12/30/99 4:06,Country,12/4/99,1/22/00,x2nd.week,95,49,11.0
+504,8,2000,Sisqo,Incomplete,12/30/99 3:52,Rock,6/24/00,8/12/00,x1st.week,77,49,26.0
+505,934,2000,"Herndon, Ty",No Mercy,12/30/99 4:43,Country,3/18/00,5/6/00,x3rd.week,99,49,8.0
+506,401,2000,M2M,Don't Say You Love Me,12/30/99 3:41,Pop,11/20/99,1/8/00,x2nd.week,53,49,12.0
+507,360,2000,Eiffel 65,Blue (Da Ba Dee),12/30/99 3:29,Electronica,12/11/99,1/29/00,x2nd.week,29,49,20.0
+508,79,2000,"Thomas, Carl",I Wish,12/30/99 3:50,Rock,3/25/00,5/13/00,x1st.week,75,49,20.0
+509,361,2000,"Badu, Erkyah",Bag Lady,12/30/99 5:03,Rock,8/19/00,10/7/00,x2nd.week,53,49,20.0
+510,396,2000,"Thomas, Carl",I Wish,12/30/99 3:50,Rock,3/25/00,5/13/00,x2nd.week,64,49,20.0
+511,11,2000,"Aguilera, Christina",What A Girl Wants,12/30/99 3:18,Rock,11/27/99,1/15/00,x1st.week,71,49,24.0
+512,929,2000,"Hart, Beth",L.A. Song,12/30/99 3:47,Country,11/27/99,1/15/00,x3rd.week,98,49,12.0
+513,165,2000,"Vassar, Phil",Carlene,12/30/99 4:07,Country,3/4/00,4/22/00,x1st.week,75,49,19.0
+514,514,2000,Da Brat,That's What I'm Looking For,12/30/99 3:44,Rap,2/26/00,4/15/00,x2nd.week,73,49,18.0
+515,227,2000,"Adkins, Trace",More,12/30/99 3:05,Country,4/29/00,6/17/00,x1st.week,84,49,11.0
+516,74,2000,"Dixie Chicks, The",Goodbye Earl,12/30/99 4:19,Country,3/18/00,5/6/00,x1st.week,40,49,15.0
+517,835,2000,Shyne,Bad Boyz,12/30/99 4:22,Rap,9/9/00,10/28/00,x3rd.week,90,49,15.0
+518,166,2000,"Jackson, Alan",www.memory,12/30/99 2:36,Country,11/4/00,12/23/00,x1st.week,75,49,15.0
+519,391,2000,"Dixie Chicks, The",Goodbye Earl,12/30/99 4:19,Country,3/18/00,5/6/00,x2nd.week,29,49,15.0
+520,368,2000,"Spears, Britney",Oops!.. I Did It Again,12/30/99 3:30,Rock,4/22/00,6/10/00,x2nd.week,38,49,20.0
+521,521,2000,"McGraw, Tim",Some Things Never Change,12/30/99 3:56,Country,5/13/00,7/1/00,x2nd.week,66,49,14.0
+522,369,2000,"Backstreet Boys, The",Shape Of My Heart,12/30/99 3:49,Rock,10/14/00,12/2/00,x2nd.week,25,49,20.0
+523,544,2000,"Adkins, Trace",More,12/30/99 3:05,Country,4/29/00,6/17/00,x2nd.week,84,49,11.0
+524,20,2000,"Braxton, Toni",He Wasn't Man Enough,12/30/99 4:21,Rock,3/18/00,5/6/00,x1st.week,63,49,37.0
+525,838,2000,"McGraw, Tim",Some Things Never Change,12/30/99 3:56,Country,5/13/00,7/1/00,x3rd.week,66,49,14.0
+526,31,2000,Eminem,The Real Slim Shady,12/30/99 4:42,Rap,5/6/00,6/24/00,x1st.week,70,49,19.0
+527,180,2000,"Lopez, Jennifer",Feelin' Good,12/30/99 4:28,Latin,2/19/00,4/8/00,x1st.week,79,49,17.0
+528,908,2000,"Cyrus, Billy Ray",You Won't Be Lonely Now,12/30/99 3:45,Country,9/23/00,11/11/00,x3rd.week,97,49,13.0
+529,184,2000,"Houston, Whitney",Could I Have This Kiss Forever,12/30/99 3:54,Rock,6/17/00,8/5/00,x1st.week,74,49,19.0
+530,739,2000,DMX,Party Up (Up In Here),12/30/99 3:45,Rap,2/26/00,4/22/00,x3rd.week,62,56,21.0
+531,741,2000,"McGraw, Tim",My Next Thirty Years,12/30/99 3:37,Country,10/21/00,12/16/00,x3rd.week,56,56,20.0
+532,732,2000,"Moore, Mandy",I Wanna Be With You,12/30/99 4:12,Pop,6/17/00,8/12/00,x3rd.week,54,56,23.0
+533,743,2000,Alice Deejay,Better Off Alone,12/30/99 6:50,Electronica,4/8/00,6/3/00,x3rd.week,53,56,20.0
+534,534,2000,M2M,Mirror Mirror,12/30/99 3:19,Pop,4/1/00,5/27/00,x2nd.week,87,56,18.0
+535,426,2000,Alice Deejay,Better Off Alone,12/30/99 6:50,Electronica,4/8/00,6/3/00,x2nd.week,65,56,20.0
+536,377,2000,"Martin, Ricky",She Bangs,12/30/99 4:02,Latin,10/7/00,12/2/00,x2nd.week,28,56,18.0
+537,424,2000,"McGraw, Tim",My Next Thirty Years,12/30/99 3:37,Country,10/21/00,12/16/00,x2nd.week,62,56,20.0
+538,269,2000,Ginuwine,The Best Man I Can Be,12/30/99 4:06,Rock,1/8/00,3/4/00,x1st.week,97,56,12.0
+539,98,2000,"Moore, Mandy",I Wanna Be With You,12/30/99 4:12,Pop,6/17/00,8/12/00,x1st.week,69,56,23.0
+540,706,2000,Kid Rock,Only God Knows Why,12/30/99 5:27,Rock,2/19/00,4/15/00,x3rd.week,46,56,20.0
+541,0,2000,Destiny's Child,Independent Women Part I,12/30/99 3:38,Rock,9/23/00,11/18/00,x1st.week,78,56,28.0
+542,903,2000,Ginuwine,The Best Man I Can Be,12/30/99 4:06,Rock,1/8/00,3/4/00,x3rd.week,83,56,12.0
+543,264,2000,Jay-Z,Hey Papi,12/30/99 3:40,Rap,8/12/00,10/7/00,x1st.week,98,56,15.0
+544,"1,011",2000,"Martin, Ricky",She Bangs,12/30/99 4:02,Latin,10/7/00,12/2/00,x4th.week,21,56,18.0
+545,694,2000,"Martin, Ricky",She Bangs,12/30/99 4:02,Latin,10/7/00,12/2/00,x3rd.week,21,56,18.0
+546,898,2000,Jay-Z,Hey Papi,12/30/99 3:40,Rap,8/12/00,10/7/00,x3rd.week,98,56,15.0
+547,389,2000,Kid Rock,Only God Knows Why,12/30/99 5:27,Rock,2/19/00,4/15/00,x2nd.week,47,56,20.0
+548,317,2000,Destiny's Child,Independent Women Part I,12/30/99 3:38,Rock,9/23/00,11/18/00,x2nd.week,63,56,28.0
+549,422,2000,DMX,Party Up (Up In Here),12/30/99 3:45,Rap,2/26/00,4/22/00,x2nd.week,74,56,21.0
+550,105,2000,DMX,Party Up (Up In Here),12/30/99 3:45,Rap,2/26/00,4/22/00,x1st.week,88,56,21.0
+551,517,2000,"Adams, Yolanda",Open My Heart,12/30/99 5:30,Gospel,8/26/00,10/21/00,x2nd.week,76,56,20.0
+552,318,2000,Santana,"Maria, Maria",12/30/99 4:18,Rock,2/12/00,4/8/00,x2nd.week,8,56,26.0
+553,217,2000,M2M,Mirror Mirror,12/30/99 3:19,Pop,4/1/00,5/27/00,x1st.week,87,56,18.0
+554,781,2000,Vitamin C,Graduation (Friends Forever),12/30/99 4:23,Rock,4/15/00,6/10/00,x3rd.week,54,56,12.0
+555,163,2000,"Black, Clint",Been There,12/30/99 5:28,Country,2/19/00,4/15/00,x1st.week,87,56,20.0
+556,783,2000,Lonestar,Smile,12/30/99 3:33,Country,12/18/99,2/12/00,x3rd.week,80,56,20.0
+557,72,2000,Kid Rock,Only God Knows Why,12/30/99 5:27,Rock,2/19/00,4/15/00,x1st.week,63,56,20.0
+558,834,2000,"Adams, Yolanda",Open My Heart,12/30/99 5:30,Gospel,8/26/00,10/21/00,x3rd.week,74,56,20.0
+559,784,2000,"Rogers, Kenny",Buy Me A Rose,12/30/99 3:46,Country,3/11/00,5/6/00,x3rd.week,65,56,20.0
+560,789,2000,"Walker, Clay",The Chain Of Love,12/30/99 5:03,Country,4/15/00,6/10/00,x3rd.week,57,56,20.0
+561,158,2000,"Tippin, Aaron",Kiss This,12/30/99 2:53,Country,8/26/00,10/21/00,x1st.week,74,56,20.0
+562,792,2000,"Tippin, Aaron",Kiss This,12/30/99 2:53,Country,8/26/00,10/21/00,x3rd.week,66,56,20.0
+563,797,2000,"Black, Clint",Been There,12/30/99 5:28,Country,2/19/00,4/15/00,x3rd.week,62,56,20.0
+564,464,2000,Vitamin C,Graduation (Friends Forever),12/30/99 4:23,Rock,4/15/00,6/10/00,x2nd.week,64,56,12.0
+565,466,2000,Lonestar,Smile,12/30/99 3:33,Country,12/18/99,2/12/00,x2nd.week,80,56,20.0
+566,467,2000,"Rogers, Kenny",Buy Me A Rose,12/30/99 3:46,Country,3/11/00,5/6/00,x2nd.week,72,56,20.0
+567,155,2000,"Walker, Clay",The Chain Of Love,12/30/99 5:03,Country,4/15/00,6/10/00,x1st.week,73,56,20.0
+568,1,2000,Santana,"Maria, Maria",12/30/99 4:18,Rock,2/12/00,4/8/00,x1st.week,15,56,26.0
+569,472,2000,"Walker, Clay",The Chain Of Love,12/30/99 5:03,Country,4/15/00,6/10/00,x2nd.week,65,56,20.0
+570,851,2000,M2M,Mirror Mirror,12/30/99 3:19,Pop,4/1/00,5/27/00,x3rd.week,94,56,18.0
+571,60,2000,"Martin, Ricky",She Bangs,12/30/99 4:02,Latin,10/7/00,12/2/00,x1st.week,38,56,18.0
+572,635,2000,Santana,"Maria, Maria",12/30/99 4:18,Rock,2/12/00,4/8/00,x3rd.week,6,56,26.0
+573,634,2000,Destiny's Child,Independent Women Part I,12/30/99 3:38,Rock,9/23/00,11/18/00,x3rd.week,49,56,28.0
+574,107,2000,"McGraw, Tim",My Next Thirty Years,12/30/99 3:37,Country,10/21/00,12/16/00,x1st.week,73,56,20.0
+575,150,2000,"Rogers, Kenny",Buy Me A Rose,12/30/99 3:46,Country,3/11/00,5/6/00,x1st.week,79,56,20.0
+576,149,2000,Lonestar,Smile,12/30/99 3:33,Country,12/18/99,2/12/00,x1st.week,89,56,20.0
+577,475,2000,"Tippin, Aaron",Kiss This,12/30/99 2:53,Country,8/26/00,10/21/00,x2nd.week,72,56,20.0
+578,109,2000,Alice Deejay,Better Off Alone,12/30/99 6:50,Electronica,4/8/00,6/3/00,x1st.week,79,56,20.0
+579,147,2000,Vitamin C,Graduation (Friends Forever),12/30/99 4:23,Rock,4/15/00,6/10/00,x1st.week,81,56,12.0
+580,415,2000,"Moore, Mandy",I Wanna Be With You,12/30/99 4:12,Pop,6/17/00,8/12/00,x2nd.week,63,56,23.0
+581,581,2000,Jay-Z,Hey Papi,12/30/99 3:40,Rap,8/12/00,10/7/00,x2nd.week,100,56,15.0
+582,480,2000,"Black, Clint",Been There,12/30/99 5:28,Country,2/19/00,4/15/00,x2nd.week,73,56,20.0
+583,200,2000,"Adams, Yolanda",Open My Heart,12/30/99 5:30,Gospel,8/26/00,10/21/00,x1st.week,76,56,20.0
+584,952,2000,Santana,"Maria, Maria",12/30/99 4:18,Rock,2/12/00,4/8/00,x4th.week,5,56,26.0
+585,951,2000,Destiny's Child,Independent Women Part I,12/30/99 3:38,Rock,9/23/00,11/18/00,x4th.week,33,56,28.0
+586,586,2000,Ginuwine,The Best Man I Can Be,12/30/99 4:06,Rock,1/8/00,3/4/00,x2nd.week,97,56,12.0
+587,740,2000,"Dixie Chicks, The",Cowboy Take Me Away,12/30/99 4:51,Country,11/27/99,1/29/00,x3rd.week,70,63,20.0
+588,186,2000,"Williams, Robbie",Angels,12/30/99 3:56,Rock,11/20/99,1/22/00,x1st.week,85,63,19.0
+589,498,2000,"Urban, Keith",Your Everything,12/30/99 4:10,Country,7/15/00,9/16/00,x2nd.week,80,63,16.0
+590,242,2000,"Loveless, Patty",That's The Kind Of Mood I'm In,12/30/99 3:27,Country,9/16/00,11/18/00,x1st.week,98,63,14.0
+591,876,2000,"Loveless, Patty",That's The Kind Of Mood I'm In,12/30/99 3:27,Country,9/16/00,11/18/00,x3rd.week,93,63,14.0
+592,138,2000,"Vassar, Phil",Just Another Day In Paradise,12/30/99 3:54,Country,9/30/00,12/2/00,x1st.week,81,63,20.0
+593,735,2000,"Messina, Jo Dee",That's The Way,12/30/99 3:17,Country,6/24/00,8/26/00,x3rd.week,63,63,20.0
+594,95,2000,Kandi,Don't Think I'm Not,12/30/99 3:50,Rock,8/5/00,10/7/00,x1st.week,66,63,24.0
+595,733,2000,Dr. Dre,Forgot About Dre,12/30/99 3:42,Rap,1/22/00,3/25/00,x3rd.week,47,63,20.0
+596,181,2000,"Urban, Keith",Your Everything,12/30/99 4:10,Country,7/15/00,9/16/00,x1st.week,81,63,16.0
+597,729,2000,Kandi,Don't Think I'm Not,12/30/99 3:50,Rock,8/5/00,10/7/00,x3rd.week,66,63,24.0
+598,133,2000,J-Shin,One Night Stand,12/30/99 4:34,R&B,12/25/99,2/26/00,x1st.week,96,63,17.0
+599,132,2000,"Chesney, Kenny",I Lost It,12/30/99 3:54,Country,10/21/00,12/23/00,x1st.week,75,63,20.0
+600,436,2000,"Paisley, Brad",We Danced,12/30/99 3:45,Country,10/14/00,12/16/00,x2nd.week,68,63,20.0
+601,726,2000,Dr. Dre,The Next Episode,12/30/99 2:38,Rap,5/27/00,7/29/00,x3rd.week,58,63,20.0
+602,129,2000,"Fabian, Lara",I Will Love Again,12/30/99 3:43,Pop,6/10/00,8/12/00,x1st.week,91,63,17.0
+603,409,2000,Dr. Dre,The Next Episode,12/30/99 2:38,Rap,5/27/00,7/29/00,x2nd.week,67,63,20.0
+604,290,2000,Limp Bizkit,Re-Arranged,12/30/99 4:08,Rock,12/4/99,2/5/00,x1st.week,91,63,18.0
+605,749,2000,"McGraw, Tim",My Best Friend,12/30/99 4:33,Country,11/27/99,1/29/00,x3rd.week,71,63,21.0
+606,607,2000,Limp Bizkit,Re-Arranged,12/30/99 4:08,Rock,12/4/99,2/5/00,x2nd.week,91,63,18.0
+607,719,2000,SoulDecision,Faded,12/30/99 3:25,Rock,7/8/00,9/9/00,x3rd.week,81,63,24.0
+608,54,2000,Ja Rule,Between Me And You,12/30/99 4:05,Rap,9/16/00,11/18/00,x1st.week,85,63,20.0
+609,423,2000,"Dixie Chicks, The",Cowboy Take Me Away,12/30/99 4:51,Country,11/27/99,1/29/00,x2nd.week,72,63,20.0
+610,92,2000,Dr. Dre,The Next Episode,12/30/99 2:38,Rap,5/27/00,7/29/00,x1st.week,78,63,20.0
+611,412,2000,Kandi,Don't Think I'm Not,12/30/99 3:50,Rock,8/5/00,10/7/00,x2nd.week,66,63,24.0
+612,753,2000,"Paisley, Brad",We Danced,12/30/99 3:45,Country,10/14/00,12/16/00,x3rd.week,52,63,20.0
+613,99,2000,Dr. Dre,Forgot About Dre,12/30/99 3:42,Rap,1/22/00,3/25/00,x1st.week,75,63,20.0
+614,101,2000,"Messina, Jo Dee",That's The Way,12/30/99 3:17,Country,6/24/00,8/26/00,x1st.week,78,63,20.0
+615,119,2000,"Paisley, Brad",We Danced,12/30/99 3:45,Country,10/14/00,12/16/00,x1st.week,71,63,20.0
+616,446,2000,"Fabian, Lara",I Will Love Again,12/30/99 3:43,Pop,6/10/00,8/12/00,x2nd.week,80,63,17.0
+617,820,2000,"Williams, Robbie",Angels,12/30/99 3:56,Rock,11/20/99,1/22/00,x3rd.week,69,63,19.0
+618,988,2000,N'Sync,This I Promise You,12/30/99 4:23,Rock,9/30/00,12/2/00,x4th.week,15,63,26.0
+619,989,2000,Ruff Endz,No More,12/30/99 3:56,Rock,7/1/00,9/2/00,x4th.week,17,63,26.0
+620,115,2000,"McGraw, Tim",My Best Friend,12/30/99 4:33,Country,11/27/99,1/29/00,x1st.week,85,63,21.0
+621,374,2000,Jay-Z,I Just Wanna Love U (Give It 2 Me),12/30/99 3:50,Rap,10/28/00,12/30/00,x2nd.week,45,63,21.0
+622,371,2000,Ja Rule,Between Me And You,12/30/99 4:05,Rap,9/16/00,11/18/00,x2nd.week,74,63,20.0
+623,354,2000,N'Sync,This I Promise You,12/30/99 4:23,Rock,9/30/00,12/2/00,x2nd.week,31,63,26.0
+624,476,2000,SheDaisy,I Will.. But,12/30/99 3:40,Country,7/15/00,9/16/00,x2nd.week,74,63,20.0
+625,355,2000,Ruff Endz,No More,12/30/99 3:56,Rock,7/1/00,9/2/00,x2nd.week,38,63,26.0
+626,763,2000,"Fabian, Lara",I Will Love Again,12/30/99 3:43,Pop,6/10/00,8/12/00,x3rd.week,75,63,17.0
+627,449,2000,"Chesney, Kenny",I Lost It,12/30/99 3:54,Country,10/21/00,12/23/00,x2nd.week,67,63,20.0
+628,106,2000,"Dixie Chicks, The",Cowboy Take Me Away,12/30/99 4:51,Country,11/27/99,1/29/00,x1st.week,79,63,20.0
+629,766,2000,"Chesney, Kenny",I Lost It,12/30/99 3:54,Country,10/21/00,12/23/00,x3rd.week,61,63,20.0
+630,152,2000,"Strait, George",Go On,12/30/99 3:48,Country,8/26/00,10/28/00,x1st.week,71,63,20.0
+631,153,2000,Sisqo,Got To Get It,12/30/99 3:52,Rock,11/20/99,1/22/00,x1st.week,92,63,20.0
+632,691,2000,Jay-Z,I Just Wanna Love U (Give It 2 Me),12/30/99 3:50,Rap,10/28/00,12/30/00,x3rd.week,35,63,21.0
+633,767,2000,J-Shin,One Night Stand,12/30/99 4:34,R&B,12/25/99,2/26/00,x3rd.week,69,63,17.0
+634,450,2000,J-Shin,One Night Stand,12/30/99 4:34,R&B,12/25/99,2/26/00,x2nd.week,96,63,17.0
+635,815,2000,"Urban, Keith",Your Everything,12/30/99 4:10,Country,7/15/00,9/16/00,x3rd.week,73,63,16.0
+636,503,2000,"Williams, Robbie",Angels,12/30/99 3:56,Rock,11/20/99,1/22/00,x2nd.week,77,63,19.0
+637,470,2000,Sisqo,Got To Get It,12/30/99 3:52,Rock,11/20/99,1/22/00,x2nd.week,76,63,20.0
+638,85,2000,SoulDecision,Faded,12/30/99 3:25,Rock,7/8/00,9/9/00,x1st.week,94,63,24.0
+639,402,2000,SoulDecision,Faded,12/30/99 3:25,Rock,7/8/00,9/9/00,x2nd.week,90,63,24.0
+640,469,2000,"Strait, George",Go On,12/30/99 3:48,Country,8/26/00,10/28/00,x2nd.week,67,63,20.0
+641,688,2000,Ja Rule,Between Me And You,12/30/99 4:05,Rap,9/16/00,11/18/00,x3rd.week,61,63,20.0
+642,924,2000,Limp Bizkit,Re-Arranged,12/30/99 4:08,Rock,12/4/99,2/5/00,x3rd.week,90,63,18.0
+643,455,2000,"Vassar, Phil",Just Another Day In Paradise,12/30/99 3:54,Country,9/30/00,12/2/00,x2nd.week,81,63,20.0
+644,432,2000,"McGraw, Tim",My Best Friend,12/30/99 4:33,Country,11/27/99,1/29/00,x2nd.week,76,63,21.0
+645,772,2000,"Vassar, Phil",Just Another Day In Paradise,12/30/99 3:54,Country,9/30/00,12/2/00,x3rd.week,76,63,20.0
+646,418,2000,"Messina, Jo Dee",That's The Way,12/30/99 3:17,Country,6/24/00,8/26/00,x2nd.week,67,63,20.0
+647,416,2000,Dr. Dre,Forgot About Dre,12/30/99 3:42,Rap,1/22/00,3/25/00,x2nd.week,55,63,20.0
+648,37,2000,N'Sync,This I Promise You,12/30/99 4:23,Rock,9/30/00,12/2/00,x1st.week,68,63,26.0
+649,672,2000,Ruff Endz,No More,12/30/99 3:56,Rock,7/1/00,9/2/00,x3rd.week,19,63,26.0
+650,57,2000,Jay-Z,I Just Wanna Love U (Give It 2 Me),12/30/99 3:50,Rap,10/28/00,12/30/00,x1st.week,58,63,21.0
+651,"1,005",2000,Ja Rule,Between Me And You,12/30/99 4:05,Rap,9/16/00,11/18/00,x4th.week,37,63,20.0
+652,38,2000,Ruff Endz,No More,12/30/99 3:56,Rock,7/1/00,9/2/00,x1st.week,76,63,26.0
+653,671,2000,N'Sync,This I Promise You,12/30/99 4:23,Rock,9/30/00,12/2/00,x3rd.week,19,63,26.0
+654,"1,008",2000,Jay-Z,I Just Wanna Love U (Give It 2 Me),12/30/99 3:50,Rap,10/28/00,12/30/00,x4th.week,26,63,21.0
+655,793,2000,SheDaisy,I Will.. But,12/30/99 3:40,Country,7/15/00,9/16/00,x3rd.week,70,63,20.0
+656,559,2000,"Loveless, Patty",That's The Kind Of Mood I'm In,12/30/99 3:27,Country,9/16/00,11/18/00,x2nd.week,93,63,14.0
+657,786,2000,"Strait, George",Go On,12/30/99 3:48,Country,8/26/00,10/28/00,x3rd.week,63,63,20.0
+658,159,2000,SheDaisy,I Will.. But,12/30/99 3:40,Country,7/15/00,9/16/00,x1st.week,78,63,20.0
+659,787,2000,Sisqo,Got To Get It,12/30/99 3:52,Rock,11/20/99,1/22/00,x3rd.week,73,63,20.0
+660,459,2000,"Jackson, Alan",It Must Be Love,12/30/99 2:53,Country,6/24/00,9/2/00,x2nd.week,74,70,20.0
+661,790,2000,"McBride, Martina",Love's The Only House,12/30/99 5:13,Country,2/5/00,4/15/00,x3rd.week,65,70,20.0
+662,785,2000,"Lawrence, Tracy",Lessons Learned,12/30/99 2:55,Country,1/29/00,4/8/00,x3rd.week,61,70,20.0
+663,195,2000,"Chesney, Kenny",What I Need To Do,12/30/99 4:05,Country,4/1/00,6/10/00,x1st.week,79,70,17.0
+664,322,2000,Janet,Doesn't Really Matter,12/30/99 4:17,Rock,6/17/00,8/26/00,x2nd.week,52,70,24.0
+665,162,2000,"Jackson, Alan",Pop A Top,12/30/99 3:04,Country,11/13/99,1/22/00,x1st.week,79,70,17.0
+666,796,2000,"Jackson, Alan",Pop A Top,12/30/99 3:04,Country,11/13/99,1/22/00,x3rd.week,70,70,17.0
+667,59,2000,Filter,Take A Picture,12/30/99 4:23,Rock,11/27/99,2/5/00,x1st.week,91,70,20.0
+668,512,2000,"Chesney, Kenny",What I Need To Do,12/30/99 4:05,Country,4/1/00,6/10/00,x2nd.week,74,70,17.0
+669,458,2000,Lucy Pearl,Dance Tonight,12/30/99 3:45,R&B,5/20/00,7/29/00,x2nd.week,75,70,19.0
+670,776,2000,"Jackson, Alan",It Must Be Love,12/30/99 2:53,Country,6/24/00,9/2/00,x3rd.week,68,70,20.0
+671,775,2000,Lucy Pearl,Dance Tonight,12/30/99 3:45,R&B,5/20/00,7/29/00,x3rd.week,63,70,19.0
+672,156,2000,"McBride, Martina",Love's The Only House,12/30/99 5:13,Country,2/5/00,4/15/00,x1st.week,79,70,20.0
+673,88,2000,Vertical Horizon,You're A God,12/30/99 3:45,Rock,8/26/00,11/4/00,x1st.week,64,70,21.0
+674,321,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),12/30/99 3:38,Rock,8/5/00,10/14/00,x2nd.week,47,70,21.0
+675,"1,010",2000,Filter,Take A Picture,12/30/99 4:23,Rock,11/27/99,2/5/00,x4th.week,52,70,20.0
+676,16,2000,"Carey, Mariah",Thank God I Found You,12/30/99 4:14,Rock,12/11/99,2/19/00,x1st.week,82,70,20.0
+677,650,2000,"Carey, Mariah",Thank God I Found You,12/30/99 4:14,Rock,12/11/99,2/19/00,x3rd.week,50,70,20.0
+678,507,2000,"Hill, Faith",Let's Make Love,12/30/99 4:11,Rap,8/12/00,10/21/00,x2nd.week,83,70,14.0
+679,803,2000,Ideal,Whatever,12/30/99 3:48,R&B,6/10/00,8/19/00,x3rd.week,67,70,18.0
+680,421,2000,Da Brat,What'Chu Like,12/30/99 3:57,Rap,6/3/00,8/12/00,x2nd.week,65,70,20.0
+681,505,2000,"Keith, Toby",Country Comes To Town,12/30/99 3:39,Country,8/5/00,10/14/00,x2nd.week,78,70,15.0
+682,169,2000,Ideal,Whatever,12/30/99 3:48,R&B,6/10/00,8/19/00,x1st.week,75,70,18.0
+683,468,2000,"Lawrence, Tracy",Lessons Learned,12/30/99 2:55,Country,1/29/00,4/8/00,x2nd.week,73,70,20.0
+684,639,2000,Janet,Doesn't Really Matter,12/30/99 4:17,Rock,6/17/00,8/26/00,x3rd.week,43,70,24.0
+685,142,2000,"Jackson, Alan",It Must Be Love,12/30/99 2:53,Country,6/24/00,9/2/00,x1st.week,76,70,20.0
+686,473,2000,"McBride, Martina",Love's The Only House,12/30/99 5:13,Country,2/5/00,4/15/00,x2nd.week,69,70,20.0
+687,151,2000,"Lawrence, Tracy",Lessons Learned,12/30/99 2:55,Country,1/29/00,4/8/00,x1st.week,80,70,20.0
+688,693,2000,Filter,Take A Picture,12/30/99 4:23,Rock,11/27/99,2/5/00,x3rd.week,64,70,20.0
+689,922,2000,Madison Avenue,Don't Call Me Baby,12/30/99 3:44,Electronica,7/8/00,9/16/00,x3rd.week,93,70,20.0
+690,765,2000,"Evans, Sara",Born To Fly,12/30/99 5:36,Country,10/21/00,12/30/00,x3rd.week,64,70,20.0
+691,5,2000,Janet,Doesn't Really Matter,12/30/99 4:17,Rock,6/17/00,8/26/00,x1st.week,59,70,24.0
+692,104,2000,Da Brat,What'Chu Like,12/30/99 3:57,Rap,6/3/00,8/12/00,x1st.week,71,70,20.0
+693,698,2000,Third Eye Blind,Never Let You Go,12/30/99 3:57,Rock,1/22/00,4/1/00,x3rd.week,25,70,22.0
+694,829,2000,"Chesney, Kenny",What I Need To Do,12/30/99 4:05,Country,4/1/00,6/10/00,x3rd.week,68,70,17.0
+695,899,2000,Fatboy Slim,The Rockafeller Skank,12/30/99 4:00,Electronica,11/13/99,1/22/00,x3rd.week,94,70,12.0
+696,448,2000,"Evans, Sara",Born To Fly,12/30/99 5:36,Country,10/21/00,12/30/00,x2nd.week,71,70,20.0
+697,333,2000,"Carey, Mariah",Thank God I Found You,12/30/99 4:14,Rock,12/11/99,2/19/00,x2nd.week,68,70,20.0
+698,265,2000,Fatboy Slim,The Rockafeller Skank,12/30/99 4:00,Electronica,11/13/99,1/22/00,x1st.week,94,70,12.0
+699,756,2000,"Keith, Toby",How Do You Like Me Now?!,12/30/99 3:29,Country,1/29/00,4/8/00,x3rd.week,59,70,20.0
+700,414,2000,Goo Goo Dolls,Broadway,12/30/99 3:54,Rock,4/22/00,7/1/00,x2nd.week,58,70,20.0
+701,376,2000,Filter,Take A Picture,12/30/99 4:23,Rock,11/27/99,2/5/00,x2nd.week,74,70,20.0
+702,754,2000,Lonestar,What About Now,12/30/99 3:30,Country,6/10/00,8/19/00,x3rd.week,66,70,20.0
+703,479,2000,"Jackson, Alan",Pop A Top,12/30/99 3:04,Country,11/13/99,1/22/00,x2nd.week,73,70,17.0
+704,120,2000,Lonestar,What About Now,12/30/99 3:30,Country,6/10/00,8/19/00,x1st.week,78,70,20.0
+705,582,2000,Fatboy Slim,The Rockafeller Skank,12/30/99 4:00,Electronica,11/13/99,1/22/00,x2nd.week,94,70,12.0
+706,122,2000,"Keith, Toby",How Do You Like Me Now?!,12/30/99 3:29,Country,1/29/00,4/8/00,x1st.week,77,70,20.0
+707,220,2000,"Blige, Mary J.",Deep Inside,12/30/99 5:26,Rock,11/13/99,1/22/00,x1st.week,83,70,15.0
+708,822,2000,"Keith, Toby",Country Comes To Town,12/30/99 3:39,Country,8/5/00,10/14/00,x3rd.week,75,70,15.0
+709,190,2000,"Hill, Faith",Let's Make Love,12/30/99 4:11,Rap,8/12/00,10/21/00,x1st.week,83,70,14.0
+710,538,2000,"Price, Kelly",You Should've Told Me,12/30/99 3:12,Rock,9/23/00,12/2/00,x2nd.week,91,70,20.0
+711,537,2000,"Blige, Mary J.",Deep Inside,12/30/99 5:26,Rock,11/13/99,1/22/00,x2nd.week,80,70,15.0
+712,288,2000,Madison Avenue,Don't Call Me Baby,12/30/99 3:44,Electronica,7/8/00,9/16/00,x1st.week,98,70,20.0
+713,486,2000,Ideal,Whatever,12/30/99 3:48,R&B,6/10/00,8/19/00,x2nd.week,75,70,18.0
+714,824,2000,"Hill, Faith",Let's Make Love,12/30/99 4:11,Rap,8/12/00,10/21/00,x3rd.week,73,70,14.0
+715,967,2000,"Carey, Mariah",Thank God I Found You,12/30/99 4:14,Rock,12/11/99,2/19/00,x4th.week,50,70,20.0
+716,439,2000,"Keith, Toby",How Do You Like Me Now?!,12/30/99 3:29,Country,1/29/00,4/8/00,x2nd.week,72,70,20.0
+717,722,2000,Vertical Horizon,You're A God,12/30/99 3:45,Rock,8/26/00,11/4/00,x3rd.week,43,70,21.0
+718,97,2000,Goo Goo Dolls,Broadway,12/30/99 3:54,Rock,4/22/00,7/1/00,x1st.week,74,70,20.0
+719,381,2000,Third Eye Blind,Never Let You Go,12/30/99 3:57,Rock,1/22/00,4/1/00,x2nd.week,32,70,22.0
+720,605,2000,Madison Avenue,Don't Call Me Baby,12/30/99 3:44,Electronica,7/8/00,9/16/00,x2nd.week,96,70,20.0
+721,64,2000,Third Eye Blind,Never Let You Go,12/30/99 3:57,Rock,1/22/00,4/1/00,x1st.week,65,70,22.0
+722,437,2000,Lonestar,What About Now,12/30/99 3:30,Country,6/10/00,8/19/00,x2nd.week,72,70,20.0
+723,131,2000,"Evans, Sara",Born To Fly,12/30/99 5:36,Country,10/21/00,12/30/00,x1st.week,77,70,20.0
+724,855,2000,"Price, Kelly",You Should've Told Me,12/30/99 3:12,Rock,9/23/00,12/2/00,x3rd.week,91,70,20.0
+725,221,2000,"Price, Kelly",You Should've Told Me,12/30/99 3:12,Rock,9/23/00,12/2/00,x1st.week,91,70,20.0
+726,731,2000,Goo Goo Dolls,Broadway,12/30/99 3:54,Rock,4/22/00,7/1/00,x3rd.week,53,70,20.0
+727,188,2000,"Keith, Toby",Country Comes To Town,12/30/99 3:39,Country,8/5/00,10/14/00,x1st.week,82,70,15.0
+728,956,2000,Janet,Doesn't Really Matter,12/30/99 4:17,Rock,6/17/00,8/26/00,x4th.week,30,70,24.0
+729,955,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),12/30/99 3:38,Rock,8/5/00,10/14/00,x4th.week,29,70,21.0
+730,405,2000,Vertical Horizon,You're A God,12/30/99 3:45,Rock,8/26/00,11/4/00,x2nd.week,55,70,21.0
+731,854,2000,"Blige, Mary J.",Deep Inside,12/30/99 5:26,Rock,11/13/99,1/22/00,x3rd.week,80,70,15.0
+732,4,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),12/30/99 3:38,Rock,8/5/00,10/14/00,x1st.week,57,70,21.0
+733,738,2000,Da Brat,What'Chu Like,12/30/99 3:57,Rap,6/3/00,8/12/00,x3rd.week,54,70,20.0
+734,141,2000,Lucy Pearl,Dance Tonight,12/30/99 3:45,R&B,5/20/00,7/29/00,x1st.week,80,70,19.0
+735,638,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),12/30/99 3:38,Rock,8/5/00,10/14/00,x3rd.week,45,70,21.0
+736,500,2000,"Gill, Vince",Feels Like Love,12/30/99 4:13,Country,9/2/00,11/18/00,x2nd.week,76,77,20.0
+737,435,2000,"Jones, Donell",Where I Wanna Be,12/30/99 6:22,Rock,4/22/00,7/8/00,x2nd.week,71,77,25.0
+738,730,2000,Sammie,I Like It,12/30/99 4:09,Rock,1/29/00,4/15/00,x3rd.week,58,77,20.0
+739,96,2000,Sammie,I Like It,12/30/99 4:09,Rock,1/29/00,4/15/00,x1st.week,85,77,20.0
+740,234,2000,Red Hot Chili Peppers,Californication,12/30/99 5:21,Rock,7/29/00,10/14/00,x1st.week,72,77,19.0
+741,357,2000,Nine Days,Absolutely (Story Of A Girl),12/30/99 3:09,Rock,5/6/00,7/22/00,x2nd.week,71,77,27.0
+742,724,2000,"Rimes, LeAnn",Big Deal,12/30/99 3:03,Country,10/16/99,1/1/00,x3rd.week,51,77,20.0
+743,71,2000,Jay-Z,Big Pimpin',12/30/99 3:55,Rap,4/22/00,7/8/00,x1st.week,69,77,20.0
+744,359,2000,Blink-182,All The Small Things,12/30/99 2:52,Rock,12/4/99,2/19/00,x2nd.week,76,77,23.0
+745,716,2000,Ludacris,What's Your Fantasy,12/30/99 4:16,Rap,9/30/00,12/16/00,x3rd.week,63,77,22.0
+746,388,2000,Jay-Z,Big Pimpin',12/30/99 3:55,Rap,4/22/00,7/8/00,x2nd.week,52,77,20.0
+747,752,2000,"Jones, Donell",Where I Wanna Be,12/30/99 6:22,Rock,4/22/00,7/8/00,x3rd.week,65,77,25.0
+748,384,2000,Barenaked Ladies,Pinch Me,12/30/99 3:46,Rock,9/9/00,11/25/00,x2nd.week,76,77,21.0
+749,"1,012",2000,Mystikal,Shake Ya Ass,12/30/99 4:46,Rap,8/12/00,10/28/00,x4th.week,41,77,20.0
+750,705,2000,Jay-Z,Big Pimpin',12/30/99 3:55,Rap,4/22/00,7/8/00,x3rd.week,39,77,20.0
+751,257,2000,"Worley, Darryl",When You Need My Love,12/30/99 3:35,Country,6/17/00,9/2/00,x1st.week,98,77,15.0
+752,496,2000,"McEntire, Reba",I'll Be,12/30/99 4:23,Country,5/13/00,7/29/00,x2nd.week,79,77,20.0
+753,758,2000,"Dixie Chicks, The",Without You,12/30/99 3:32,Country,10/7/00,12/23/00,x3rd.week,63,77,20.0
+754,759,2000,Musiq,Just Friends (Sunny),12/30/99 4:02,Rap,10/14/00,12/30/00,x3rd.week,65,77,20.0
+755,30,2000,N'Sync,Bye Bye Bye,12/30/99 3:15,Rock,1/29/00,4/15/00,x1st.week,42,77,23.0
+756,356,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,12/30/99 3:54,Rock,1/1/00,3/18/00,x2nd.week,62,77,24.0
+757,701,2000,Barenaked Ladies,Pinch Me,12/30/99 3:46,Rock,9/9/00,11/25/00,x3rd.week,69,77,21.0
+758,183,2000,"Gill, Vince",Feels Like Love,12/30/99 4:13,Country,9/2/00,11/18/00,x1st.week,82,77,20.0
+759,399,2000,Ludacris,What's Your Fantasy,12/30/99 4:16,Rap,9/30/00,12/16/00,x2nd.week,83,77,22.0
+760,695,2000,Mystikal,Shake Ya Ass,12/30/99 4:46,Rap,8/12/00,10/28/00,x3rd.week,65,77,20.0
+761,179,2000,"McEntire, Reba",I'll Be,12/30/99 4:23,Country,5/13/00,7/29/00,x1st.week,89,77,20.0
+762,891,2000,"Worley, Darryl",When You Need My Love,12/30/99 3:35,Country,6/17/00,9/2/00,x3rd.week,93,77,15.0
+763,689,2000,"Rimes, LeAnn",I Need You,12/30/99 3:42,Country,5/27/00,8/12/00,x3rd.week,67,77,25.0
+764,551,2000,Red Hot Chili Peppers,Californication,12/30/99 5:21,Rock,7/29/00,10/14/00,x2nd.week,72,77,19.0
+765,39,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,12/30/99 3:54,Rock,1/1/00,3/18/00,x1st.week,74,77,24.0
+766,40,2000,Nine Days,Absolutely (Story Of A Girl),12/30/99 3:09,Rock,5/6/00,7/22/00,x1st.week,85,77,27.0
+767,42,2000,Blink-182,All The Small Things,12/30/99 2:52,Rock,12/4/99,2/19/00,x1st.week,89,77,23.0
+768,"1,006",2000,"Rimes, LeAnn",I Need You,12/30/99 3:42,Country,5/27/00,8/12/00,x4th.week,63,77,25.0
+769,347,2000,N'Sync,Bye Bye Bye,12/30/99 3:15,Rock,1/29/00,4/15/00,x2nd.week,20,77,23.0
+770,676,2000,Blink-182,All The Small Things,12/30/99 2:52,Rock,12/4/99,2/19/00,x3rd.week,69,77,23.0
+771,61,2000,Mystikal,Shake Ya Ass,12/30/99 4:46,Rap,8/12/00,10/28/00,x1st.week,97,77,20.0
+772,574,2000,"Worley, Darryl",When You Need My Love,12/30/99 3:35,Country,6/17/00,9/2/00,x2nd.week,88,77,15.0
+773,90,2000,"Rimes, LeAnn",Big Deal,12/30/99 3:03,Country,10/16/99,1/1/00,x1st.week,71,77,20.0
+774,674,2000,Nine Days,Absolutely (Story Of A Girl),12/30/99 3:09,Rock,5/6/00,7/22/00,x3rd.week,59,77,27.0
+775,148,2000,"Gilman, Billy",One Voice,12/30/99 4:07,Country,6/17/00,9/2/00,x1st.week,86,77,19.0
+776,673,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,12/30/99 3:54,Rock,1/1/00,3/18/00,x3rd.week,55,77,24.0
+777,782,2000,"Gilman, Billy",One Voice,12/30/99 4:07,Country,6/17/00,9/2/00,x3rd.week,82,77,19.0
+778,465,2000,"Gilman, Billy",One Voice,12/30/99 4:07,Country,6/17/00,9/2/00,x2nd.week,86,77,19.0
+779,407,2000,"Rimes, LeAnn",Big Deal,12/30/99 3:03,Country,10/16/99,1/1/00,x2nd.week,52,77,20.0
+780,413,2000,Sammie,I Like It,12/30/99 4:09,Rock,1/29/00,4/15/00,x2nd.week,68,77,20.0
+781,26,2000,"Aguilera, Christina",I Turn To You,12/30/99 4:00,Rock,4/15/00,7/1/00,x1st.week,50,77,22.0
+782,664,2000,N'Sync,Bye Bye Bye,12/30/99 3:15,Rock,1/29/00,4/15/00,x3rd.week,19,77,23.0
+783,378,2000,Mystikal,Shake Ya Ass,12/30/99 4:46,Rap,8/12/00,10/28/00,x2nd.week,90,77,20.0
+784,82,2000,Ludacris,What's Your Fantasy,12/30/99 4:16,Rap,9/30/00,12/16/00,x1st.week,89,77,22.0
+785,125,2000,Musiq,Just Friends (Sunny),12/30/99 4:02,Rap,10/14/00,12/30/00,x1st.week,89,77,20.0
+786,993,2000,Blink-182,All The Small Things,12/30/99 2:52,Rock,12/4/99,2/19/00,x4th.week,59,77,23.0
+787,991,2000,Nine Days,Absolutely (Story Of A Girl),12/30/99 3:09,Rock,5/6/00,7/22/00,x4th.week,52,77,27.0
+788,660,2000,"Aguilera, Christina",I Turn To You,12/30/99 4:00,Rock,4/15/00,7/1/00,x3rd.week,30,77,22.0
+789,990,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,12/30/99 3:54,Rock,1/1/00,3/18/00,x4th.week,25,77,24.0
+790,124,2000,"Dixie Chicks, The",Without You,12/30/99 3:32,Country,10/7/00,12/23/00,x1st.week,80,77,20.0
+791,67,2000,Barenaked Ladies,Pinch Me,12/30/99 3:46,Rock,9/9/00,11/25/00,x1st.week,77,77,21.0
+792,372,2000,"Rimes, LeAnn",I Need You,12/30/99 3:42,Country,5/27/00,8/12/00,x2nd.week,68,77,25.0
+793,55,2000,"Rimes, LeAnn",I Need You,12/30/99 3:42,Country,5/27/00,8/12/00,x1st.week,77,77,25.0
+794,441,2000,"Dixie Chicks, The",Without You,12/30/99 3:32,Country,10/7/00,12/23/00,x2nd.week,70,77,20.0
+795,981,2000,N'Sync,Bye Bye Bye,12/30/99 3:15,Rock,1/29/00,4/15/00,x4th.week,14,77,23.0
+796,977,2000,"Aguilera, Christina",I Turn To You,12/30/99 4:00,Rock,4/15/00,7/1/00,x4th.week,28,77,22.0
+797,118,2000,"Jones, Donell",Where I Wanna Be,12/30/99 6:22,Rock,4/22/00,7/8/00,x1st.week,81,77,25.0
+798,817,2000,"Gill, Vince",Feels Like Love,12/30/99 4:13,Country,9/2/00,11/18/00,x3rd.week,74,77,20.0
+799,442,2000,Musiq,Just Friends (Sunny),12/30/99 4:02,Rap,10/14/00,12/30/00,x2nd.week,83,77,20.0
+800,813,2000,"McEntire, Reba",I'll Be,12/30/99 4:23,Country,5/13/00,7/29/00,x3rd.week,79,77,20.0
+801,343,2000,"Aguilera, Christina",I Turn To You,12/30/99 4:00,Rock,4/15/00,7/1/00,x2nd.week,39,77,22.0
+802,868,2000,Red Hot Chili Peppers,Californication,12/30/99 5:21,Rock,7/29/00,10/14/00,x3rd.week,72,77,19.0
+803,87,2000,"Martin, Ricky",Shake Your Bon-Bon,12/30/99 3:08,Latin,11/20/99,2/12/00,x1st.week,74,84,18.0
+804,86,2000,"Brock, Chad",Yes!,12/30/99 3:22,Country,4/8/00,7/1/00,x1st.week,90,84,20.0
+805,644,2000,N'Sync,It's Gonna Be Me,12/30/99 3:10,Rock,5/6/00,7/29/00,x3rd.week,51,84,25.0
+806,807,2000,DMX,What You Want,12/30/99 4:05,Rap,7/1/00,9/23/00,x3rd.week,95,84,20.0
+807,806,2000,"Davidson, Clay",Unconditional,12/30/99 3:56,Country,3/25/00,6/17/00,x3rd.week,97,84,20.0
+808,966,2000,matchbox twenty,Bent,12/30/99 4:12,Rock,4/29/00,7/22/00,x4th.week,24,84,39.0
+809,641,2000,"Iglesias, Enrique",Be With You,12/30/99 3:36,Latin,4/1/00,6/24/00,x3rd.week,34,84,20.0
+810,640,2000,Destiny's Child,Say My Name,12/30/99 4:31,Rock,12/25/99,3/18/00,x3rd.week,44,84,32.0
+811,961,2000,N'Sync,It's Gonna Be Me,12/30/99 3:10,Rock,5/6/00,7/29/00,x4th.week,39,84,25.0
+812,53,2000,Everclear,Wonderful,12/30/99 4:30,Rock,7/8/00,9/30/00,x1st.week,77,84,21.0
+813,958,2000,"Iglesias, Enrique",Be With You,12/30/99 3:36,Latin,4/1/00,6/24/00,x4th.week,23,84,20.0
+814,112,2000,Counting Crows,Hanginaround,12/30/99 4:07,Rock,11/6/99,1/29/00,x1st.week,84,84,20.0
+815,649,2000,matchbox twenty,Bent,12/30/99 4:12,Rock,4/29/00,7/22/00,x3rd.week,29,84,39.0
+816,440,2000,"Strait, George",The Best Day,12/30/99 3:24,Country,1/29/00,4/22/00,x2nd.week,64,84,20.0
+817,375,2000,Jagged Edge,Let's Get Married,12/30/99 4:23,Rock,5/6/00,7/29/00,x2nd.week,66,84,24.0
+818,332,2000,matchbox twenty,Bent,12/30/99 4:12,Rock,4/29/00,7/22/00,x2nd.week,37,84,39.0
+819,58,2000,Jagged Edge,Let's Get Married,12/30/99 4:23,Rock,5/6/00,7/29/00,x1st.week,77,84,24.0
+820,370,2000,Everclear,Wonderful,12/30/99 4:30,Rock,7/8/00,9/30/00,x2nd.week,69,84,21.0
+821,429,2000,Counting Crows,Hanginaround,12/30/99 4:07,Rock,11/6/99,1/29/00,x2nd.week,70,84,20.0
+822,957,2000,Destiny's Child,Say My Name,12/30/99 4:31,Rock,12/25/99,3/18/00,x4th.week,38,84,32.0
+823,404,2000,"Martin, Ricky",Shake Your Bon-Bon,12/30/99 3:08,Latin,11/20/99,2/12/00,x2nd.week,66,84,18.0
+824,327,2000,N'Sync,It's Gonna Be Me,12/30/99 3:10,Rock,5/6/00,7/29/00,x2nd.week,70,84,25.0
+825,403,2000,"Brock, Chad",Yes!,12/30/99 3:22,Country,4/8/00,7/1/00,x2nd.week,77,84,20.0
+826,"1,004",2000,Everclear,Wonderful,12/30/99 4:30,Rock,7/8/00,9/30/00,x4th.week,37,84,21.0
+827,324,2000,"Iglesias, Enrique",Be With You,12/30/99 3:36,Latin,4/1/00,6/24/00,x2nd.week,45,84,20.0
+828,15,2000,matchbox twenty,Bent,12/30/99 4:12,Rock,4/29/00,7/22/00,x1st.week,60,84,39.0
+829,489,2000,"Davidson, Clay",Unconditional,12/30/99 3:56,Country,3/25/00,6/17/00,x2nd.week,97,84,20.0
+830,687,2000,Everclear,Wonderful,12/30/99 4:30,Rock,7/8/00,9/30/00,x3rd.week,53,84,21.0
+831,172,2000,"Davidson, Clay",Unconditional,12/30/99 3:56,Country,3/25/00,6/17/00,x1st.week,97,84,20.0
+832,173,2000,DMX,What You Want,12/30/99 4:05,Rap,7/1/00,9/23/00,x1st.week,98,84,20.0
+833,490,2000,DMX,What You Want,12/30/99 4:05,Rap,7/1/00,9/23/00,x2nd.week,95,84,20.0
+834,692,2000,Jagged Edge,Let's Get Married,12/30/99 4:23,Rock,5/6/00,7/29/00,x3rd.week,55,84,24.0
+835,323,2000,Destiny's Child,Say My Name,12/30/99 4:31,Rock,12/25/99,3/18/00,x2nd.week,83,84,32.0
+836,"1,009",2000,Jagged Edge,Let's Get Married,12/30/99 4:23,Rock,5/6/00,7/29/00,x4th.week,45,84,24.0
+837,10,2000,N'Sync,It's Gonna Be Me,12/30/99 3:10,Rock,5/6/00,7/29/00,x1st.week,82,84,25.0
+838,6,2000,Destiny's Child,Say My Name,12/30/99 4:31,Rock,12/25/99,3/18/00,x1st.week,83,84,32.0
+839,757,2000,"Strait, George",The Best Day,12/30/99 3:24,Country,1/29/00,4/22/00,x3rd.week,54,84,20.0
+840,7,2000,"Iglesias, Enrique",Be With You,12/30/99 3:36,Latin,4/1/00,6/24/00,x1st.week,63,84,20.0
+841,720,2000,"Brock, Chad",Yes!,12/30/99 3:22,Country,4/8/00,7/1/00,x3rd.week,66,84,20.0
+842,721,2000,"Martin, Ricky",Shake Your Bon-Bon,12/30/99 3:08,Latin,11/20/99,2/12/00,x3rd.week,52,84,18.0
+843,746,2000,Counting Crows,Hanginaround,12/30/99 4:07,Rock,11/6/99,1/29/00,x3rd.week,66,84,20.0
+844,123,2000,"Strait, George",The Best Day,12/30/99 3:24,Country,1/29/00,4/22/00,x1st.week,73,84,20.0
+845,511,2000,Brooks & Dunn,You'll Always Be Loved By Me,12/30/99 2:58,Country,6/10/00,9/9/00,x2nd.week,85,91,19.0
+846,194,2000,Brooks & Dunn,You'll Always Be Loved By Me,12/30/99 2:58,Country,6/10/00,9/9/00,x1st.week,95,91,19.0
+847,77,2000,Westlife,Swear It Again,12/30/99 4:07,Rock,4/1/00,7/1/00,x1st.week,96,91,20.0
+848,14,2000,Aaliyah,Try Again,12/30/99 4:03,Rock,3/18/00,6/17/00,x1st.week,59,91,32.0
+849,353,2000,"Gray, Macy",I Try,12/30/99 3:52,Rock,2/19/00,5/20/00,x2nd.week,51,91,27.0
+850,351,2000,Blaque,Bring It All To Me,12/30/99 3:46,Pop,10/23/99,1/22/00,x2nd.week,63,91,29.0
+851,350,2000,"Mumba, Samantha",Gotta Tell You,12/30/99 3:19,Rock,9/9/00,12/9/00,x2nd.week,72,91,22.0
+852,62,2000,BBMak,Back Here,12/30/99 3:35,Rock,4/29/00,7/29/00,x1st.week,99,91,31.0
+853,154,2000,Baha Men,Who Let The Dogs Out,12/30/99 3:17,R&B,7/22/00,10/21/00,x1st.week,99,91,20.0
+854,367,2000,Sonique,It Feels So Good,12/30/99 3:48,Rock,1/22/00,4/22/00,x2nd.week,52,91,24.0
+855,471,2000,Baha Men,Who Let The Dogs Out,12/30/99 3:17,R&B,7/22/00,10/21/00,x2nd.week,92,91,20.0
+856,828,2000,Brooks & Dunn,You'll Always Be Loved By Me,12/30/99 2:58,Country,6/10/00,9/9/00,x3rd.week,85,91,19.0
+857,143,2000,"Griggs, Andy",She's More,12/30/99 3:19,Country,3/11/00,6/10/00,x1st.week,81,91,20.0
+858,126,2000,"McEntire, Reba",What Do You Say,12/30/99 3:26,Country,10/30/99,1/29/00,x1st.week,88,91,20.0
+859,460,2000,"Griggs, Andy",She's More,12/30/99 3:19,Country,3/11/00,6/10/00,x2nd.week,76,91,20.0
+860,56,2000,Smash Mouth,Then The Morning Comes,12/30/99 3:04,Rock,10/30/99,1/29/00,x1st.week,83,91,26.0
+861,50,2000,Sonique,It Feels So Good,12/30/99 3:48,Rock,1/22/00,4/22/00,x1st.week,67,91,24.0
+862,965,2000,Aaliyah,Try Again,12/30/99 4:03,Rock,3/18/00,6/17/00,x4th.week,28,91,32.0
+863,443,2000,"McEntire, Reba",What Do You Say,12/30/99 3:26,Country,10/30/99,1/29/00,x2nd.week,76,91,20.0
+864,970,2000,Dream,He Loves U Not,12/30/99 3:43,Rock,9/30/00,12/30/00,x4th.week,59,91,28.0
+865,648,2000,Aaliyah,Try Again,12/30/99 4:03,Rock,3/18/00,6/17/00,x3rd.week,38,91,32.0
+866,653,2000,Dream,He Loves U Not,12/30/99 3:43,Rock,9/30/00,12/30/00,x3rd.week,81,91,28.0
+867,984,2000,"Mumba, Samantha",Gotta Tell You,12/30/99 3:19,Rock,9/9/00,12/9/00,x4th.week,49,91,22.0
+868,19,2000,Dream,He Loves U Not,12/30/99 3:43,Rock,9/30/00,12/30/00,x1st.week,99,91,28.0
+869,985,2000,Blaque,Bring It All To Me,12/30/99 3:46,Pop,10/23/99,1/22/00,x4th.week,42,91,29.0
+870,336,2000,Dream,He Loves U Not,12/30/99 3:43,Rock,9/30/00,12/30/00,x2nd.week,92,91,28.0
+871,373,2000,Smash Mouth,Then The Morning Comes,12/30/99 3:04,Rock,10/30/99,1/29/00,x2nd.week,59,91,26.0
+872,987,2000,"Gray, Macy",I Try,12/30/99 3:52,Rock,2/19/00,5/20/00,x4th.week,36,91,27.0
+873,331,2000,Aaliyah,Try Again,12/30/99 4:03,Rock,3/18/00,6/17/00,x2nd.week,53,91,32.0
+874,788,2000,Baha Men,Who Let The Dogs Out,12/30/99 3:17,R&B,7/22/00,10/21/00,x3rd.week,85,91,20.0
+875,"1,001",2000,Sonique,It Feels So Good,12/30/99 3:48,Rock,1/22/00,4/22/00,x4th.week,23,91,24.0
+876,667,2000,"Mumba, Samantha",Gotta Tell You,12/30/99 3:19,Rock,9/9/00,12/9/00,x3rd.week,65,91,22.0
+877,408,2000,IMx,Stay The Night,12/30/99 3:37,Rap,10/9/99,1/8/00,x2nd.week,61,91,20.0
+878,668,2000,Blaque,Bring It All To Me,12/30/99 3:46,Pop,10/23/99,1/22/00,x3rd.week,50,91,29.0
+879,670,2000,"Gray, Macy",I Try,12/30/99 3:52,Rock,2/19/00,5/20/00,x3rd.week,47,91,27.0
+880,777,2000,"Griggs, Andy",She's More,12/30/99 3:19,Country,3/11/00,6/10/00,x3rd.week,69,91,20.0
+881,"1,007",2000,Smash Mouth,Then The Morning Comes,12/30/99 3:04,Rock,10/30/99,1/29/00,x4th.week,46,91,26.0
+882,379,2000,BBMak,Back Here,12/30/99 3:35,Rock,4/29/00,7/29/00,x2nd.week,86,91,31.0
+883,91,2000,IMx,Stay The Night,12/30/99 3:37,Rap,10/9/99,1/8/00,x1st.week,84,91,20.0
+884,684,2000,Sonique,It Feels So Good,12/30/99 3:48,Rock,1/22/00,4/22/00,x3rd.week,30,91,24.0
+885,690,2000,Smash Mouth,Then The Morning Comes,12/30/99 3:04,Rock,10/30/99,1/29/00,x3rd.week,56,91,26.0
+886,696,2000,BBMak,Back Here,12/30/99 3:35,Rock,4/29/00,7/29/00,x3rd.week,60,91,31.0
+887,760,2000,"McEntire, Reba",What Do You Say,12/30/99 3:26,Country,10/30/99,1/29/00,x3rd.week,71,91,20.0
+888,36,2000,"Gray, Macy",I Try,12/30/99 3:52,Rock,2/19/00,5/20/00,x1st.week,68,91,27.0
+889,394,2000,Westlife,Swear It Again,12/30/99 4:07,Rock,4/1/00,7/1/00,x2nd.week,82,91,20.0
+890,711,2000,Westlife,Swear It Again,12/30/99 4:07,Rock,4/1/00,7/1/00,x3rd.week,66,91,20.0
+891,"1,013",2000,BBMak,Back Here,12/30/99 3:35,Rock,4/29/00,7/29/00,x4th.week,52,91,31.0
+892,33,2000,"Mumba, Samantha",Gotta Tell You,12/30/99 3:19,Rock,9/9/00,12/9/00,x1st.week,85,91,22.0
+893,725,2000,IMx,Stay The Night,12/30/99 3:37,Rap,10/9/99,1/8/00,x3rd.week,45,91,20.0
+894,34,2000,Blaque,Bring It All To Me,12/30/99 3:46,Pop,10/23/99,1/22/00,x1st.week,73,91,29.0
+895,655,2000,"Anthony, Marc",You Sang To Me,12/30/99 3:50,Latin,2/26/00,6/3/00,x3rd.week,50,98,32.0
+896,707,2000,Foo Fighters,Learn To Fly,12/30/99 3:55,Rock,10/16/99,1/22/00,x3rd.week,68,98,21.0
+897,390,2000,Foo Fighters,Learn To Fly,12/30/99 3:55,Rock,10/16/99,1/22/00,x2nd.week,69,98,21.0
+898,319,2000,Savage Garden,I Knew I Loved You,12/30/99 4:07,Rock,10/23/99,1/29/00,x2nd.week,48,98,33.0
+899,780,2000,Rascal Flatts,Prayin' For Daylight,12/30/99 3:36,Country,5/6/00,8/12/00,x3rd.week,72,98,20.0
+900,794,2000,"Raye, Collin",Couldn't Last A Moment,12/30/99 3:40,Country,3/18/00,6/24/00,x3rd.week,75,98,20.0
+901,657,2000,Destiny's Child,Jumpin' Jumpin',12/30/99 3:48,Rock,5/13/00,8/19/00,x3rd.week,65,98,32.0
+902,338,2000,"Anthony, Marc",You Sang To Me,12/30/99 3:50,Latin,2/26/00,6/3/00,x2nd.week,54,98,32.0
+903,974,2000,Destiny's Child,Jumpin' Jumpin',12/30/99 3:48,Rock,5/13/00,8/19/00,x4th.week,62,98,32.0
+904,340,2000,Destiny's Child,Jumpin' Jumpin',12/30/99 3:48,Rock,5/13/00,8/19/00,x2nd.week,71,98,32.0
+905,972,2000,"Anthony, Marc",You Sang To Me,12/30/99 3:50,Latin,2/26/00,6/3/00,x4th.week,43,98,32.0
+906,636,2000,Savage Garden,I Knew I Loved You,12/30/99 4:07,Rock,10/23/99,1/29/00,x3rd.week,43,98,33.0
+907,146,2000,Rascal Flatts,Prayin' For Daylight,12/30/99 3:36,Country,5/6/00,8/12/00,x1st.week,87,98,20.0
+908,953,2000,Savage Garden,I Knew I Loved You,12/30/99 4:07,Rock,10/23/99,1/29/00,x4th.week,31,98,33.0
+909,23,2000,Destiny's Child,Jumpin' Jumpin',12/30/99 3:48,Rock,5/13/00,8/19/00,x1st.week,74,98,32.0
+910,2,2000,Savage Garden,I Knew I Loved You,12/30/99 4:07,Rock,10/23/99,1/29/00,x1st.week,71,98,33.0
+911,21,2000,"Anthony, Marc",You Sang To Me,12/30/99 3:50,Latin,2/26/00,6/3/00,x1st.week,77,98,32.0
+912,160,2000,"Raye, Collin",Couldn't Last A Moment,12/30/99 3:40,Country,3/18/00,6/24/00,x1st.week,91,98,20.0
+913,73,2000,Foo Fighters,Learn To Fly,12/30/99 3:55,Rock,10/16/99,1/22/00,x1st.week,80,98,21.0
+914,477,2000,"Raye, Collin",Couldn't Last A Moment,12/30/99 3:40,Country,3/18/00,6/24/00,x2nd.week,85,98,20.0
+915,463,2000,Rascal Flatts,Prayin' For Daylight,12/30/99 3:36,Country,5/6/00,8/12/00,x2nd.week,78,98,20.0
+916,742,2000,"Tritt, Travis",Best Of Intentions,12/30/99 4:15,Country,8/19/00,12/2/00,x3rd.week,79,105,22.0
+917,335,2000,Mya,Case Of The Ex (Whatcha Gonna Do),12/30/99 3:50,Rock,8/19/00,12/2/00,x2nd.week,57,105,30.0
+918,365,2000,Next,Wifey,12/30/99 4:03,Rock,5/27/00,9/9/00,x2nd.week,61,105,21.0
+919,18,2000,Mya,Case Of The Ex (Whatcha Gonna Do),12/30/99 3:50,Rock,8/19/00,12/2/00,x1st.week,72,105,30.0
+920,494,2000,"Heatherly, Eric",Flowers On The Wall,12/30/99 3:16,Country,4/29/00,8/12/00,x2nd.week,88,105,20.0
+921,712,2000,Train,Meet Virginia,12/30/99 3:55,Rock,10/9/99,1/22/00,x3rd.week,59,105,27.0
+922,983,2000,Pink,Most Girls,12/30/99 4:06,Rock,8/12/00,11/25/00,x4th.week,36,105,27.0
+923,32,2000,Pink,Most Girls,12/30/99 4:06,Rock,8/12/00,11/25/00,x1st.week,85,105,27.0
+924,704,2000,Sting,Desert Rose,12/30/99 3:52,Rock,5/13/00,8/26/00,x3rd.week,72,105,26.0
+925,65,2000,Red Hot Chili Peppers,Otherside,12/30/99 4:13,Rock,2/12/00,5/27/00,x1st.week,80,105,22.0
+926,382,2000,Red Hot Chili Peppers,Otherside,12/30/99 4:13,Rock,2/12/00,5/27/00,x2nd.week,72,105,22.0
+927,652,2000,Mya,Case Of The Ex (Whatcha Gonna Do),12/30/99 3:50,Rock,8/19/00,12/2/00,x3rd.week,52,105,30.0
+928,969,2000,Mya,Case Of The Ex (Whatcha Gonna Do),12/30/99 3:50,Rock,8/19/00,12/2/00,x4th.week,47,105,30.0
+929,70,2000,Sting,Desert Rose,12/30/99 3:52,Rock,5/13/00,8/26/00,x1st.week,98,105,26.0
+930,387,2000,Sting,Desert Rose,12/30/99 3:52,Rock,5/13/00,8/26/00,x2nd.week,88,105,26.0
+931,999,2000,Next,Wifey,12/30/99 4:03,Rock,5/27/00,9/9/00,x4th.week,40,105,21.0
+932,78,2000,Train,Meet Virginia,12/30/99 3:55,Rock,10/9/99,1/22/00,x1st.week,76,105,27.0
+933,177,2000,"Heatherly, Eric",Flowers On The Wall,12/30/99 3:16,Country,4/29/00,8/12/00,x1st.week,95,105,20.0
+934,48,2000,Next,Wifey,12/30/99 4:03,Rock,5/27/00,9/9/00,x1st.week,85,105,21.0
+935,811,2000,"Heatherly, Eric",Flowers On The Wall,12/30/99 3:16,Country,4/29/00,8/12/00,x3rd.week,88,105,20.0
+936,666,2000,Pink,Most Girls,12/30/99 4:06,Rock,8/12/00,11/25/00,x3rd.week,52,105,27.0
+937,349,2000,Pink,Most Girls,12/30/99 4:06,Rock,8/12/00,11/25/00,x2nd.week,70,105,27.0
+938,395,2000,Train,Meet Virginia,12/30/99 3:55,Rock,10/9/99,1/22/00,x2nd.week,67,105,27.0
+939,699,2000,Red Hot Chili Peppers,Otherside,12/30/99 4:13,Rock,2/12/00,5/27/00,x3rd.week,65,105,22.0
+940,425,2000,"Tritt, Travis",Best Of Intentions,12/30/99 4:15,Country,8/19/00,12/2/00,x2nd.week,86,105,22.0
+941,682,2000,Next,Wifey,12/30/99 4:03,Rock,5/27/00,9/9/00,x3rd.week,46,105,21.0
+942,108,2000,"Tritt, Travis",Best Of Intentions,12/30/99 4:15,Country,8/19/00,12/2/00,x1st.week,97,105,22.0
+943,659,2000,Sisqo,Thong Song,12/30/99 4:05,Rock,1/29/00,5/20/00,x3rd.week,35,112,28.0
+944,992,2000,"Dion, Celine",That's The Way It Is,12/30/99 4:03,Rock,11/13/99,3/4/00,x4th.week,49,112,28.0
+945,675,2000,"Dion, Celine",That's The Way It Is,12/30/99 4:03,Rock,11/13/99,3/4/00,x3rd.week,65,112,28.0
+946,346,2000,"Jordan, Montell",Get It On.. Tonite,12/30/99 4:34,Rap,10/23/99,2/12/00,x2nd.week,80,112,32.0
+947,41,2000,"Dion, Celine",That's The Way It Is,12/30/99 4:03,Rock,11/13/99,3/4/00,x1st.week,74,112,28.0
+948,980,2000,"Jordan, Montell",Get It On.. Tonite,12/30/99 4:34,Rap,10/23/99,2/12/00,x4th.week,69,112,32.0
+949,29,2000,"Jordan, Montell",Get It On.. Tonite,12/30/99 4:34,Rap,10/23/99,2/12/00,x1st.week,92,112,32.0
+950,976,2000,Sisqo,Thong Song,12/30/99 4:05,Rock,1/29/00,5/20/00,x4th.week,26,112,28.0
+951,25,2000,Sisqo,Thong Song,12/30/99 4:05,Rock,1/29/00,5/20/00,x1st.week,74,112,28.0
+952,342,2000,Sisqo,Thong Song,12/30/99 4:05,Rock,1/29/00,5/20/00,x2nd.week,63,112,28.0
+953,663,2000,"Jordan, Montell",Get It On.. Tonite,12/30/99 4:34,Rap,10/23/99,2/12/00,x3rd.week,72,112,32.0
+954,358,2000,"Dion, Celine",That's The Way It Is,12/30/99 4:03,Rock,11/13/99,3/4/00,x2nd.week,68,112,28.0
+955,344,2000,"Houston, Whitney",My Love Is Your Love,12/30/99 4:16,Rock,9/4/99,1/8/00,x2nd.week,68,126,28.0
+956,833,2000,Papa Roach,Last Resort,12/30/99 3:19,Rock,7/29/00,12/2/00,x3rd.week,69,126,20.0
+957,516,2000,Papa Roach,Last Resort,12/30/99 3:19,Rock,7/29/00,12/2/00,x2nd.week,71,126,20.0
+958,199,2000,Papa Roach,Last Resort,12/30/99 3:19,Rock,7/29/00,12/2/00,x1st.week,75,126,20.0
+959,27,2000,"Houston, Whitney",My Love Is Your Love,12/30/99 4:16,Rock,9/4/99,1/8/00,x1st.week,81,126,28.0
+960,661,2000,"Houston, Whitney",My Love Is Your Love,12/30/99 4:16,Rock,9/4/99,1/8/00,x3rd.week,44,126,28.0
+961,978,2000,"Houston, Whitney",My Love Is Your Love,12/30/99 4:16,Rock,9/4/99,1/8/00,x4th.week,16,126,28.0
+962,420,2000,Son By Four,A Puro Dolor (Purest Of Pain),12/30/99 3:30,Latin,4/8/00,8/19/00,x2nd.week,80,133,26.0
+963,103,2000,Son By Four,A Puro Dolor (Purest Of Pain),12/30/99 3:30,Latin,4/8/00,8/19/00,x1st.week,80,133,26.0
+964,737,2000,Son By Four,A Puro Dolor (Purest Of Pain),12/30/99 3:30,Latin,4/8/00,8/19/00,x3rd.week,80,133,26.0
